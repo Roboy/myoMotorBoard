@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name motor_drive_9y_protection-eagle-import)(type Legacy)(uri ${KIPRJMOD}/motor_drive_9y_protection-eagle-import.lib)(options "")(descr ""))
+)

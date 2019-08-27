@@ -1,0 +1,880 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# motor_drive_9y_protection-eagle-import_+5V
+#
+DEF motor_drive_9y_protection-eagle-import_+5V #P+ 0 40 Y Y 1 L P
+F0 "#P+" 0 0 50 H I C CNN
+F1 "motor_drive_9y_protection-eagle-import_+5V" -100 -200 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 0 0 -50 -75 N
+P 2 1 0 0 50 -75 0 0 N
+X +5V 1 0 -100 100 U 0 0 1 0 W
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_0603_FERRITE
+#
+DEF motor_drive_9y_protection-eagle-import_0603_FERRITE L 0 40 Y Y 1 L N
+F0 "L" -59 -150 59 V V L BNN
+F1 "motor_drive_9y_protection-eagle-import_0603_FERRITE" 130 -150 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -40 -140 40 140 1 0 0 F
+X 1 1 0 200 100 D 0 0 1 0 P
+X 2 2 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_1N5819HW
+#
+DEF motor_drive_9y_protection-eagle-import_1N5819HW ~ 0 40 Y Y 1 L N
+F0 "" -116 104 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_1N5819HW" -176 -177 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -50 -75 50 0 N
+P 2 1 0 0 -50 75 -50 -75 N
+P 2 1 0 0 50 0 -50 75 N
+P 2 1 0 0 55 -75 80 -75 N
+P 2 1 0 0 55 75 30 75 N
+P 2 1 0 0 55 75 55 -75 N
+X A A -100 0 100 R 0 0 1 0 P
+X C C 100 0 100 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_47346-0001
+#
+DEF motor_drive_9y_protection-eagle-import_47346-0001 J 0 40 Y Y 1 L N
+F0 "J" -200 500 68 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_47346-0001" -200 -600 69 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -200 -400 100 -400 N
+P 2 1 0 0 -200 400 -200 -400 N
+P 2 1 0 0 100 -400 100 400 N
+P 2 1 0 0 100 400 -200 400 N
+X 1 1 -400 200 200 R 50 50 1 0 I
+X 2 2 -400 100 200 R 50 50 1 0 I
+X 3 3 -400 0 200 R 50 50 1 0 I
+X 4 4 -400 -100 200 R 50 50 1 0 I
+X 5 5 -400 -200 200 R 50 50 1 0 I
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_?M03B-SRSS-TBB
+#
+DEF ~motor_drive_9y_protection-eagle-import_?M03B-SRSS-TBB X 0 40 Y Y 3 L N
+F0 "X" 100 -30 51 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_?M03B-SRSS-TBB" -30 55 51 H I L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 50 0 0 0 N
+P 2 2 0 0 50 0 0 0 N
+P 2 3 0 0 50 0 0 0 N
+X S 1 -100 0 100 R 0 0 1 0 P
+X S 2 -100 0 100 R 0 0 2 0 P
+X S 3 -100 0 100 R 0 0 3 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_?M05B-SRSS-TBB
+#
+DEF ~motor_drive_9y_protection-eagle-import_?M05B-SRSS-TBB X 0 40 Y Y 5 L N
+F0 "X" 100 -30 51 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_?M05B-SRSS-TBB" -30 55 51 H I L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 50 0 0 0 N
+P 2 2 0 0 50 0 0 0 N
+P 2 3 0 0 50 0 0 0 N
+P 2 4 0 0 50 0 0 0 N
+P 2 5 0 0 50 0 0 0 N
+X S 1 -100 0 100 R 0 0 1 0 P
+X S 2 -100 0 100 R 0 0 2 0 P
+X S 3 -100 0 100 R 0 0 3 0 P
+X S 4 -100 0 100 R 0 0 4 0 P
+X S 5 -100 0 100 R 0 0 5 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_?M06B-SRSS-TBB
+#
+DEF ~motor_drive_9y_protection-eagle-import_?M06B-SRSS-TBB X 0 40 Y Y 6 L N
+F0 "X" 100 -30 51 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_?M06B-SRSS-TBB" -30 55 51 H I L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 50 0 0 0 N
+P 2 2 0 0 50 0 0 0 N
+P 2 3 0 0 50 0 0 0 N
+P 2 4 0 0 50 0 0 0 N
+P 2 5 0 0 50 0 0 0 N
+P 2 6 0 0 50 0 0 0 N
+X S 1 -100 0 100 R 0 0 1 0 P
+X S 2 -100 0 100 R 0 0 2 0 P
+X S 3 -100 0 100 R 0 0 3 0 P
+X S 4 -100 0 100 R 0 0 4 0 P
+X S 5 -100 0 100 R 0 0 5 0 P
+X S 6 -100 0 100 R 0 0 6 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_A4931
+#
+DEF ~motor_drive_9y_protection-eagle-import_A4931 U 0 40 Y Y 1 L N
+F0 "U" 0 0 50 H I C CNN
+F1 "motor_drive_9y_protection-eagle-import_A4931" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -500 -1000 -500 1400 N
+P 2 1 0 0 -500 1400 1200 1400 N
+P 2 1 0 0 1200 -1000 -500 -1000 N
+P 2 1 0 0 1200 1400 1200 -1000 N
+X HA+ 1 -100 -1200 200 U 50 50 1 0 U
+X CP2 10 500 1600 200 D 50 50 1 0 U
+X VBB 11 1400 1200 200 L 50 50 1 0 U
+X VCP 12 800 1600 200 D 50 50 1 0 U
+X SEN 13 1400 -800 200 L 50 50 1 0 U
+X GLC 14 1400 -600 200 L 50 50 1 0 U
+X GLB 15 1400 0 200 L 50 50 1 0 U
+X GLA 16 1400 600 200 L 50 50 1 0 U
+X GHC 17 1400 -200 200 L 50 50 1 0 U
+X SC 18 1400 -400 200 L 50 50 1 0 U
+X GHB 19 1400 400 200 L 50 50 1 0 U
+X HA- 2 100 -1200 200 U 50 50 1 0 U
+X SB 20 1400 200 200 L 50 50 1 0 U
+X GHA 21 1400 1000 200 L 50 50 1 0 U
+X SA 22 1400 800 200 L 50 50 1 0 U
+X FG1 23 -700 900 200 R 50 50 1 0 U
+X FG2 24 -700 600 200 R 50 50 1 0 U
+X CLD 25 -300 1600 200 D 50 50 1 0 U
+X DIR 26 -700 -300 200 R 50 50 1 0 U
+X ENABLE 27 -700 0 200 R 50 50 1 0 U
+X BRAKEZ 28 -700 300 200 R 50 50 1 0 U
+X TP 29 -700 -600 200 R 50 50 1 0 U
+X HB+ 3 300 -1200 200 U 50 50 1 0 U
+X HB- 4 500 -1200 200 U 50 50 1 0 U
+X HC+ 5 700 -1200 200 U 50 50 1 0 U
+X HC- 6 900 -1200 200 U 50 50 1 0 U
+X GND 7 -400 -1200 200 U 50 50 1 0 U
+X HBIAS 8 0 1600 200 D 50 50 1 0 U
+X CP1 9 300 1600 200 D 50 50 1 0 U
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_AD8207
+#
+DEF motor_drive_9y_protection-eagle-import_AD8207 U 0 40 Y Y 1 L N
+F0 "U" 200 -400 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_AD8207" -300 -400 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -400 -300 -400 300 N
+P 2 1 0 0 -400 300 500 300 N
+P 2 1 0 0 500 -300 -400 -300 N
+P 2 1 0 0 500 300 500 -300 N
+X -IN 1 -600 0 200 R 50 50 1 0 U
+X GND 2 100 -500 200 U 50 50 1 0 U
+X VREF2 3 700 -200 200 L 50 50 1 0 U
+X RANGE 4 -600 -200 200 R 50 50 1 0 U
+X OUT 5 700 200 200 L 50 50 1 0 U
+X V+ 6 100 500 200 D 50 50 1 0 U
+X VREF1 7 700 0 200 L 50 50 1 0 U
+X +IN 8 -600 200 200 R 50 50 1 0 U
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_C-EUC0402K
+#
+DEF motor_drive_9y_protection-eagle-import_C-EUC0402K C 0 40 Y Y 1 L N
+F0 "C" 60 15 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_C-EUC0402K" 60 -185 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -80 -80 80 -60 1 0 0 F
+S -80 -40 80 -20 1 0 0 F
+P 2 1 0 0 0 -100 0 -80 N
+P 2 1 0 0 0 0 0 -20 N
+X 1 1 0 100 100 D 0 0 1 0 P
+X 2 2 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_C-EUC0603K
+#
+DEF motor_drive_9y_protection-eagle-import_C-EUC0603K C 0 40 Y Y 1 L N
+F0 "C" 60 15 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_C-EUC0603K" 60 -185 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -80 -80 80 -60 1 0 0 F
+S -80 -40 80 -20 1 0 0 F
+P 2 1 0 0 0 -100 0 -80 N
+P 2 1 0 0 0 0 0 -20 N
+X 1 1 0 100 100 D 0 0 1 0 P
+X 2 2 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_C-EUC0805K
+#
+DEF motor_drive_9y_protection-eagle-import_C-EUC0805K C 0 40 Y Y 1 L N
+F0 "C" 60 15 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_C-EUC0805K" 60 -185 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -80 -80 80 -60 1 0 0 F
+S -80 -40 80 -20 1 0 0 F
+P 2 1 0 0 0 -100 0 -80 N
+P 2 1 0 0 0 0 0 -20 N
+X 1 1 0 100 100 D 0 0 1 0 P
+X 2 2 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_C-EUC1210
+#
+DEF motor_drive_9y_protection-eagle-import_C-EUC1210 C 0 40 Y Y 1 L N
+F0 "C" 60 15 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_C-EUC1210" 60 -185 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -80 -80 80 -60 1 0 0 F
+S -80 -40 80 -20 1 0 0 F
+P 2 1 0 0 0 -100 0 -80 N
+P 2 1 0 0 0 0 0 -20 N
+X 1 1 0 100 100 D 0 0 1 0 P
+X 2 2 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_CPOL-EUD
+#
+DEF motor_drive_9y_protection-eagle-import_CPOL-EUD C 0 40 Y Y 1 L N
+F0 "C" 45 19 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_CPOL-EUD" 45 -181 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 900 -23 16 42 0 1 0 + Normal 0 L B
+S -65 -100 65 -65 1 0 0 F
+P 2 1 0 0 -60 -35 60 -35 N
+P 2 1 0 0 -60 0 -60 -35 N
+P 2 1 0 0 -60 0 60 0 N
+P 2 1 0 0 60 -35 60 0 N
+X + + 0 100 100 D 0 0 1 0 P
+X - - 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_DIODE_2CACA-SOT23
+#
+DEF motor_drive_9y_protection-eagle-import_DIODE_2CACA-SOT23 D 0 40 Y Y 1 L N
+F0 "D" 30 79 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_DIODE_2CACA-SOT23" -190 -136 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 0 5 1 0 16 N
+P 2 1 0 0 -150 -50 -150 0 N
+P 2 1 0 0 -150 0 -150 50 N
+P 2 1 0 0 -150 0 -50 -50 N
+P 2 1 0 0 -150 0 50 0 N
+P 2 1 0 0 -100 0 -150 0 N
+P 2 1 0 0 -50 -50 -50 50 N
+P 2 1 0 0 -50 50 -150 0 N
+P 2 1 0 0 50 -50 50 0 N
+P 2 1 0 0 50 0 50 50 N
+P 2 1 0 0 50 0 150 -50 N
+P 2 1 0 0 100 0 50 0 N
+P 2 1 0 0 150 -50 150 50 N
+P 2 1 0 0 150 50 50 0 N
+X A 1 200 0 100 L 0 0 1 0 P
+X C 2 -200 0 100 R 0 0 1 0 P
+X AC 3 0 100 100 D 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_DSPIC33FJ128MC802QFN
+#
+DEF motor_drive_9y_protection-eagle-import_DSPIC33FJ128MC802QFN ~ 0 40 Y Y 1 L N
+F0 "" -1500 760 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_DSPIC33FJ128MC802QFN" -1500 -840 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -1500 -700 1500 -700 N
+P 2 1 0 0 -1500 800 -1500 -700 N
+P 2 1 0 0 1500 -700 1500 800 N
+P 2 1 0 0 1500 800 -1500 800 N
+X RB0/CN4/AN2/RP0/PGD1 1 -1600 0 100 R 50 50 1 0 U
+X VDD 10 100 900 100 D 50 50 1 0 W
+X PGD3/RP5/CN27/RB5 11 1600 500 100 L 50 50 1 0 U
+X PGC3/RP6/CN24/RB6 12 1600 400 100 L 50 50 1 0 U
+X INT0/RP7/CN23/RB7 13 1600 300 100 L 50 50 1 0 U
+X PWM2H1/TCK/SCL1/RP8/CN22/RB8 14 1600 200 100 L 50 50 1 0 U
+X PWM2L1/TDO/SDA1/RP9/CN21/RB9 15 1600 100 100 L 50 50 1 0 U
+X VSS@1 16 200 -800 100 U 50 50 1 0 W
+X VDDCORE 17 200 900 100 D 50 50 1 0 W
+X PGD2/PWM1H3/TDI/RP10/CN16/RB10 18 1600 0 100 L 50 50 1 0 U
+X PGC2/PWM1L3/TMS/RP11/CN15/RB11 19 1600 -100 100 L 50 50 1 0 U
+X RB1/CN5/AN3/RP1/PGC1 2 -1600 -100 100 R 50 50 1 0 U
+X PWM1H2/RP12/CN14/RB12 20 1600 -200 100 L 50 50 1 0 U
+X PWM1L2/RP13/CN13/RB13 21 1600 -300 100 L 50 50 1 0 U
+X PWM1H1/RP14/CN12/RB14 22 1600 -400 100 L 50 50 1 0 U
+X PWM1L1/RP15/CN11/RB15 23 1600 -500 100 L 50 50 1 0 U
+X AVSS 24 300 -800 100 U 50 50 1 0 W
+X AVDD 25 300 900 100 D 50 50 1 0 W
+X MCLR# 26 -1600 -600 100 R 50 50 1 0 I
+X RA0/CN2/AN0/VREF+ 27 -1600 600 100 R 50 50 1 0 U
+X RA1/CN3/AN1/VREF- 28 -1600 500 100 R 50 50 1 0 U
+X RB2/CN6/AN4/RP2 3 -1600 -200 100 R 50 50 1 0 U
+X RB3/CN7/AN5/RP3 4 -1600 -300 100 R 50 50 1 0 U
+X VSS 5 100 -800 100 U 50 50 1 0 W
+X RA2/OSC1/CLKI/CN30 6 -1600 400 100 R 50 50 1 0 U
+X RA3/OSC2/CLKO/CN29/PMA0 7 -1600 300 100 R 50 50 1 0 U
+X RB4/CN1/RP4/SOSCI/PMBE 8 -1600 -400 100 R 50 50 1 0 U
+X RA4/CN0/T1CK/SOSCO/PMA1 9 -1600 200 100 R 50 50 1 0 U
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_FT231XQ
+#
+DEF motor_drive_9y_protection-eagle-import_FT231XQ U 0 40 Y Y 1 L N
+F0 "U" -600 800 42 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_FT231XQ" 300 800 42 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -600 -700 600 -700 N
+P 2 1 0 0 -600 700 -600 -700 N
+P 2 1 0 0 600 -700 600 700 N
+P 2 1 0 0 600 700 -600 700 N
+X RXD 1 700 500 100 L 50 50 1 0 U
+X 3V3OUT 10 -700 500 100 R 50 50 1 0 U
+X ~RESET 11 -700 -400 100 R 50 50 1 0 U
+X VCC 12 -100 800 100 D 50 50 1 0 W
+X GND1 13 0 -800 100 U 50 50 1 0 W
+X CBUS1 14 700 -400 100 L 50 50 1 0 U
+X CBUS0 15 700 -300 100 L 50 50 1 0 U
+X CBUS3 16 700 -600 100 L 50 50 1 0 U
+X TXD 17 700 600 100 L 50 50 1 0 U
+X ~DTR 18 700 200 100 L 50 50 1 0 U
+X ~RTS 19 700 400 100 L 50 50 1 0 U
+X ~RI 2 700 -100 100 L 50 50 1 0 U
+X VCCIO 20 100 800 100 D 50 50 1 0 W
+X GND2 21 100 -800 100 U 50 50 1 0 W
+X GND 3 -100 -800 100 U 50 50 1 0 W
+X ~DSR 4 700 100 100 L 50 50 1 0 U
+X ~DCD 5 700 0 100 L 50 50 1 0 U
+X ~CTS 6 700 300 100 L 50 50 1 0 U
+X CBUS2 7 700 -500 100 L 50 50 1 0 U
+X USBDP 8 -700 0 100 R 50 50 1 0 U
+X USBDM 9 -700 200 100 R 50 50 1 0 U
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_GND
+#
+DEF motor_drive_9y_protection-eagle-import_GND #GND 0 40 Y Y 1 L P
+F0 "#GND" 0 0 50 H I C CNN
+F1 "motor_drive_9y_protection-eagle-import_GND" -100 -100 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -75 0 75 0 N
+X GND 1 0 100 100 D 0 0 1 0 W
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_LEDCHIPLED_0603
+#
+DEF motor_drive_9y_protection-eagle-import_LEDCHIPLED_0603 LED 0 40 Y Y 1 L N
+F0 "LED" 140 -180 59 V V L BNN
+F1 "motor_drive_9y_protection-eagle-import_LEDCHIPLED_0603" 225 -180 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -80 -30 -135 -85 N
+P 2 1 0 0 -75 -75 -130 -130 N
+P 2 1 0 0 0 -100 -50 -100 N
+P 2 1 0 0 0 -100 -50 0 N
+P 2 1 0 0 0 0 -50 0 N
+P 2 1 0 0 0 0 0 -100 N
+P 2 1 0 0 50 -100 0 -100 N
+P 2 1 0 0 50 0 0 -100 N
+P 2 1 0 0 50 0 0 0 N
+P 3 1 0 0 -135 -85 -120 -50 -100 -70 F
+P 3 1 0 0 -130 -130 -115 -95 -95 -115 F
+X A A 0 100 100 D 0 0 1 0 P
+X C C 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_LPS8045B-104MRB_SPULE
+#
+DEF motor_drive_9y_protection-eagle-import_LPS8045B-104MRB_SPULE ~ 0 40 Y Y 1 L N
+F0 "" -150 90 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_LPS8045B-104MRB_SPULE" -155 -120 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -150 -35 150 35 1 0 0 F
+P 2 1 0 0 -150 65 150 65 N
+X 1 1 -300 0 200 R 50 0 1 0 P
+X 2 2 300 0 200 L 50 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_MAX3280E
+#
+DEF motor_drive_9y_protection-eagle-import_MAX3280E U 0 40 Y Y 1 L N
+F0 "U" -400 400 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_MAX3280E" -400 -500 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -200 -300 400 -300 N
+P 2 1 0 0 -200 300 -200 -300 N
+P 2 1 0 0 400 -300 400 300 N
+P 2 1 0 0 400 300 -200 300 N
+X VDD 1 100 500 200 D 50 50 1 0 W
+X GND 2 100 -500 200 U 50 50 1 0 W
+X RO 3 600 0 200 L 50 50 1 0 O
+X B 4 -400 -200 200 R 50 50 1 0 I
+X A 5 -400 200 200 R 50 50 1 0 I
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_MAX5035
+#
+DEF motor_drive_9y_protection-eagle-import_MAX5035 ~ 0 40 Y Y 1 L N
+F0 "" 0 450 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_MAX5035" -300 -200 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -500 -1100 -500 400 N
+P 2 1 0 0 -500 400 500 400 N
+P 2 1 0 0 500 -1100 -500 -1100 N
+P 2 1 0 0 500 400 500 -1100 N
+X BST 1 600 200 100 L 50 50 1 0 O
+X VD 2 600 -800 100 L 50 50 1 0 O
+X SGND 3 -200 -1200 100 U 50 50 1 0 W
+X FB 4 600 -400 100 L 50 50 1 0 O
+X ON/~OFF 5 -600 -400 100 R 50 50 1 0 I
+X GND 6 200 -1200 100 U 50 50 1 0 W
+X VIN 7 -300 500 100 D 50 50 1 0 W
+X LX 8 600 -200 100 L 50 50 1 0 O
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_MCP2551
+#
+DEF motor_drive_9y_protection-eagle-import_MCP2551 ~ 0 40 Y Y 1 L N
+F0 "" -100 -200 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_MCP2551" -100 -400 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -400 0 300 0 N
+P 2 1 0 0 -400 800 -400 0 N
+P 2 1 0 0 300 0 300 800 N
+P 2 1 0 0 300 800 -400 800 N
+X TXD 1 -700 700 100 R 50 50 1 0 U
+X VSS 2 -700 500 100 R 50 50 1 0 W
+X VDD 3 -700 300 100 R 50 50 1 0 W
+X RXD 4 -700 100 100 R 50 50 1 0 U
+X VREF 5 600 100 100 L 50 50 1 0 U
+X CANL 6 600 300 100 L 50 50 1 0 U
+X CANH 7 600 500 100 L 50 50 1 0 U
+X RS 8 600 700 100 L 50 50 1 0 U
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_MIC5219BM5
+#
+DEF motor_drive_9y_protection-eagle-import_MIC5219BM5 IC 0 40 Y Y 1 L N
+F0 "IC" -300 350 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_MIC5219BM5" 400 -300 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -300 -300 -300 300 N
+P 2 1 0 0 -300 300 300 300 N
+P 2 1 0 0 300 -300 -300 -300 N
+P 2 1 0 0 300 300 300 -300 N
+X IN 1 -400 200 100 R 50 50 1 0 I
+X GND 2 100 -400 100 U 50 50 1 0 W
+X EN 3 -400 0 100 R 50 50 1 0 I
+X ADJ 4 -400 -200 100 R 50 50 1 0 P
+X OUT 5 400 200 100 L 50 50 1 0 O
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_MICRO_MATCH
+#
+DEF motor_drive_9y_protection-eagle-import_MICRO_MATCH ~ 0 40 Y Y 1 L N
+F0 "" -148 328 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_MICRO_MATCH" -148 -401 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C -73 -201 25 1 0 10 N
+C -73 -101 25 1 0 10 N
+C -73 -1 25 1 0 10 N
+C -73 98 25 1 0 10 N
+C -73 198 25 1 0 10 N
+C 76 -201 25 1 0 10 N
+C 76 -101 25 1 0 10 N
+C 76 -1 25 1 0 10 N
+C 76 98 25 1 0 10 N
+C 76 198 25 1 0 10 N
+P 2 1 0 0 -148 298 -148 -301 N
+P 2 1 0 0 -148 298 151 298 N
+P 2 1 0 0 151 -301 -148 -301 N
+P 2 1 0 0 151 -301 151 298 N
+X 1 1 301 -201 200 L 50 0 1 0 P
+X 10 10 -298 198 200 R 50 0 1 0 P
+X 2 2 -298 -201 200 R 50 0 1 0 P
+X 3 3 301 -101 200 L 50 0 1 0 P
+X 4 4 -298 -101 200 R 50 0 1 0 P
+X 5 5 301 -1 200 L 50 0 1 0 P
+X 6 6 -298 -1 200 R 50 0 1 0 P
+X 7 7 301 98 200 L 50 0 1 0 P
+X 8 8 -298 98 200 R 50 0 1 0 P
+X 9 9 301 198 200 L 50 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_MKS1650-8
+#
+DEF motor_drive_9y_protection-eagle-import_MKS1650-8 X 0 40 Y Y 1 L N
+F0 "X" 300 800 42 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_MKS1650-8" 300 -1000 42 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 300 -900 500 -900 N
+P 2 1 0 0 300 700 300 -900 N
+P 2 1 0 0 500 -900 500 700 N
+P 2 1 0 0 500 700 300 700 N
+X 1 P$1 100 600 200 R 50 50 1 0 U
+X 2 P$2 100 400 200 R 50 50 1 0 U
+X 3 P$3 100 200 200 R 50 50 1 0 U
+X 4 P$4 100 0 200 R 50 50 1 0 U
+X 5 P$5 100 -200 200 R 50 50 1 0 U
+X 6 P$6 100 -400 200 R 50 50 1 0 U
+X 7 P$7 100 -600 200 R 50 50 1 0 U
+X 8 P$8 100 -800 200 R 50 50 1 0 U
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_R-EU_R0402
+#
+DEF motor_drive_9y_protection-eagle-import_R-EU_R0402 R 0 40 Y Y 1 L N
+F0 "R" -150 59 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_R-EU_R0402" -150 -130 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -100 -35 -100 35 N
+P 2 1 0 0 -100 -35 100 -35 N
+P 2 1 0 0 100 -35 100 35 N
+P 2 1 0 0 100 35 -100 35 N
+X 1 1 -200 0 100 R 0 0 1 0 P
+X 2 2 200 0 100 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_R-EU_R0603
+#
+DEF motor_drive_9y_protection-eagle-import_R-EU_R0603 R 0 40 Y Y 1 L N
+F0 "R" -150 59 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_R-EU_R0603" -150 -130 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -100 -35 -100 35 N
+P 2 1 0 0 -100 -35 100 -35 N
+P 2 1 0 0 100 -35 100 35 N
+P 2 1 0 0 100 35 -100 35 N
+X 1 1 -200 0 100 R 0 0 1 0 P
+X 2 2 200 0 100 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_R-EU_R2512
+#
+DEF motor_drive_9y_protection-eagle-import_R-EU_R2512 R 0 40 Y Y 1 L N
+F0 "R" -150 59 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_R-EU_R2512" -150 -130 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -100 -35 -100 35 N
+P 2 1 0 0 -100 -35 100 -35 N
+P 2 1 0 0 100 -35 100 35 N
+P 2 1 0 0 100 35 -100 35 N
+X 1 1 -200 0 100 R 0 0 1 0 P
+X 2 2 200 0 100 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_SG-310
+#
+DEF ~motor_drive_9y_protection-eagle-import_SG-310 ~ 0 40 Y Y 1 L N
+F0 "" 0 0 50 H I C CNN
+F1 "motor_drive_9y_protection-eagle-import_SG-310" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -400 -200 200 -200 N
+P 2 1 0 0 -400 200 -400 -200 N
+P 2 1 0 0 200 -200 200 200 N
+P 2 1 0 0 200 200 -400 200 N
+X ST 1 -600 100 200 R 50 50 1 0 U
+X GND 2 -600 -100 200 R 50 50 1 0 U
+X OUT 3 400 -100 200 L 50 50 1 0 U
+X VCC 4 400 100 200 L 50 50 1 0 U
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_SI4456DY
+#
+DEF motor_drive_9y_protection-eagle-import_SI4456DY Q 0 40 Y Y 1 L N
+F0 "Q" -550 100 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_SI4456DY" -550 0 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 -100 14 1 0 0 N
+C 0 100 14 1 0 0 N
+P 2 1 0 0 -100 100 -100 -100 N
+P 2 1 0 0 -70 -100 -70 -125 N
+P 2 1 0 0 -70 -75 -70 -100 N
+P 2 1 0 0 -70 0 -70 -30 N
+P 2 1 0 0 -70 0 0 0 N
+P 2 1 0 0 -70 30 -70 0 N
+P 2 1 0 0 -70 100 -70 75 N
+P 2 1 0 0 -70 100 50 100 N
+P 2 1 0 0 -70 125 -70 100 N
+P 2 1 0 0 0 -100 -70 -100 N
+P 2 1 0 0 0 -100 50 -100 N
+P 2 1 0 0 0 0 0 -100 N
+P 2 1 0 0 30 20 20 10 N
+P 2 1 0 0 50 20 30 20 N
+P 2 1 0 0 50 20 50 -100 N
+P 2 1 0 0 50 100 50 20 N
+P 2 1 0 0 70 20 50 20 N
+P 2 1 0 0 80 30 70 20 N
+P 3 1 0 0 -60 0 -20 30 -20 -30 F
+P 3 1 0 0 50 20 30 -10 70 -10 F
+X S 1 0 -200 100 U 0 0 1 0 P
+X S 2 0 -200 100 U 0 0 1 0 P
+X S 3 0 -200 100 U 0 0 1 0 P
+X G 4 -200 -100 100 R 0 0 1 0 P
+X D 5 0 200 100 D 0 0 1 0 P
+X D 6 0 200 100 D 0 0 1 0 P
+X D 7 0 200 100 D 0 0 1 0 P
+X D 8 0 200 100 D 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_SMD_SWITCH_127_2
+#
+DEF motor_drive_9y_protection-eagle-import_SMD_SWITCH_127_2 SW 0 40 Y Y 1 L N
+F0 "SW" -100 -200 59 V V L BNN
+F1 "motor_drive_9y_protection-eagle-import_SMD_SWITCH_127_2" 275 -200 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 -10 -160 33 0 1 0 1 Normal 1 L B
+T 0 80 -160 33 0 1 0 2 Normal 1 L B
+T 0 -30 120 33 0 1 0 ON Normal 1 L B
+S -10 -90 10 0 1 0 0 F
+S 90 -90 110 0 1 0 0 F
+P 2 1 0 0 -75 -200 170 -200 N
+P 2 1 0 0 -75 200 -75 -200 N
+P 2 1 0 0 -20 -100 -20 100 N
+P 2 1 0 0 -20 100 20 100 N
+P 2 1 0 0 20 -100 -20 -100 N
+P 2 1 0 0 20 100 20 -100 N
+P 2 1 0 0 80 -100 80 100 N
+P 2 1 0 0 80 100 120 100 N
+P 2 1 0 0 120 -100 80 -100 N
+P 2 1 0 0 120 100 120 -100 N
+P 2 1 0 0 170 -200 175 -200 N
+P 2 1 0 0 170 200 -75 200 N
+P 2 1 0 0 170 200 180 200 N
+P 2 1 0 0 175 200 170 200 N
+P 2 1 0 0 180 -200 170 -200 N
+P 2 1 0 0 180 200 180 -200 N
+X 1 1 0 -300 100 U 50 0 1 0 P
+X 2 2 100 -300 100 U 50 0 1 0 P
+X 3 3 100 300 100 D 50 0 1 0 P
+X 4 4 0 300 100 D 50 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_TC2030-MCP-NL
+#
+DEF ~motor_drive_9y_protection-eagle-import_TC2030-MCP-NL J 0 40 Y Y 1 L N
+F0 "J" 0 0 50 H I C CNN
+F1 "motor_drive_9y_protection-eagle-import_TC2030-MCP-NL" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 190 120 22 1 0 10 N
+C 230 360 22 1 0 10 N
+C 270 120 22 1 0 10 N
+P 2 1 0 0 -400 -300 350 -300 N
+P 2 1 0 0 -400 400 -400 -300 N
+P 2 1 0 0 350 -300 350 400 N
+P 2 1 0 0 350 400 -400 400 N
+P 4 1 0 0 180 180 200 200 220 180 200 160 F
+P 4 1 0 0 180 240 200 260 220 240 200 220 F
+P 4 1 0 0 180 300 200 320 220 300 200 280 F
+P 4 1 0 0 240 180 260 200 280 180 260 160 F
+P 4 1 0 0 240 240 260 260 280 240 260 220 F
+P 4 1 0 0 240 300 260 320 280 300 260 280 F
+X VPP/MCLR 1 -500 300 100 R 50 50 1 0 P
+X VDD 2 -500 200 100 R 50 50 1 0 W
+X VSS(GND) 3 -500 100 100 R 50 50 1 0 W
+X ICSP_DAT/PGD 4 -500 0 100 R 50 50 1 0 U
+X ICSP_CLK/PGC 5 -500 -100 100 R 50 50 1 0 O
+X LVP 6 -500 -200 100 R 50 50 1 0 U
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_TL3700
+#
+DEF motor_drive_9y_protection-eagle-import_TL3700 SW 0 40 Y Y 1 L N
+F0 "SW" -200 200 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_TL3700" 200 -300 59 H V R TNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -200 -200 200 -200 N
+P 2 1 0 0 -200 100 -200 -200 N
+P 2 1 0 0 200 -200 200 100 N
+P 2 1 0 0 200 100 -200 100 N
+X 1 1 -300 0 100 R 50 50 1 0 U
+X 2 2 -300 -100 100 R 50 50 1 0 U
+X 3 3 300 -100 100 L 50 50 1 0 U
+X 4 4 300 0 100 L 50 50 1 0 U
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_TVS-DIODE
+#
+DEF motor_drive_9y_protection-eagle-import_TVS-DIODE ~ 0 40 Y Y 1 L N
+F0 "" -116 104 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_TVS-DIODE" -176 -177 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -50 -75 50 0 N
+P 2 1 0 0 -50 75 -50 -75 N
+P 2 1 0 0 50 0 -50 75 N
+P 2 1 0 0 55 -75 80 -75 N
+P 2 1 0 0 55 75 30 75 N
+P 2 1 0 0 55 75 55 -75 N
+X C 1 100 0 100 L 0 0 1 0 P
+X 2 2 -100 0 100 R 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_V+
+#
+DEF motor_drive_9y_protection-eagle-import_V+ #P+ 0 40 Y Y 1 L P
+F0 "#P+" 0 0 50 H I C CNN
+F1 "motor_drive_9y_protection-eagle-import_V+" -100 -100 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -35 -50 35 -50 N
+P 2 1 0 0 0 5 -35 -50 N
+P 2 1 0 0 35 -50 0 5 N
+X V+ 1 0 -100 100 U 0 0 1 0 W
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_VARISTORCN1206
+#
+DEF motor_drive_9y_protection-eagle-import_VARISTORCN1206 R 0 40 Y Y 1 L N
+F0 "R" -100 150 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_VARISTORCN1206" -100 -250 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -100 -40 -100 40 N
+P 2 1 0 0 -100 40 100 40 N
+P 2 1 0 0 -80 80 -100 80 N
+P 2 1 0 0 80 -80 -80 80 N
+P 2 1 0 0 100 -80 80 -80 N
+P 2 1 0 0 100 -40 -100 -40 N
+P 2 1 0 0 100 40 100 -40 N
+X 1 1 200 0 100 L 0 0 1 0 P
+X 2 2 -200 0 100 R 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_VDD
+#
+DEF motor_drive_9y_protection-eagle-import_VDD #VDD 0 40 Y Y 1 L P
+F0 "#VDD" 0 0 50 H I C CNN
+F1 "motor_drive_9y_protection-eagle-import_VDD" -100 -100 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 0 0 -50 -75 N
+P 2 1 0 0 0 50 -50 -75 N
+P 2 1 0 0 50 -75 0 0 N
+P 2 1 0 0 50 -75 0 50 N
+X VDD 1 0 -100 100 U 0 0 1 0 W
+ENDDRAW
+ENDDEF
+#
+# motor_drive_9y_protection-eagle-import_WAGO_SMD
+#
+DEF motor_drive_9y_protection-eagle-import_WAGO_SMD ~ 0 40 Y Y 1 L N
+F0 "" -178 96 59 H V L BNN
+F1 "motor_drive_9y_protection-eagle-import_WAGO_SMD" -178 -436 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -200 -200 0 -200 N
+P 2 1 0 0 -200 0 0 0 N
+P 2 1 0 0 0 -300 100 -300 N
+P 2 1 0 0 0 -200 0 -300 N
+P 2 1 0 0 0 -200 100 -200 N
+P 2 1 0 0 0 -100 100 -100 N
+P 2 1 0 0 0 0 0 -100 N
+P 2 1 0 0 0 0 100 0 N
+X GND L1 -200 -200 0 L 0 50 1 0 U
+X L2 L2 100 -200 0 R 0 50 1 0 U
+X LT3 L3 100 -300 0 R 0 50 1 0 U
+X VIN R1 -200 0 0 L 0 50 1 0 U
+X R2 R2 100 0 0 R 0 50 1 0 U
+X RT3 R3 100 -100 0 R 0 50 1 0 U
+ENDDRAW
+ENDDEF
+#
+#End Library

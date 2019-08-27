@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "motor drive 9y_protection")(type KiCad)(uri "$(KIPRJMOD)/motor drive 9y_protection.pretty")(options "")(descr ""))
+)

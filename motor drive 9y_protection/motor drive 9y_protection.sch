@@ -1,0 +1,3268 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr User 24014 11028
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	15800 5200 16300 5200
+Wire Wire Line
+	15800 5800 16300 5800
+Wire Wire Line
+	15800 6600 16300 6600
+Wire Wire Line
+	15800 7200 16300 7200
+Wire Wire Line
+	15800 8100 16300 8100
+Wire Wire Line
+	15800 8700 16300 8700
+Wire Wire Line
+	16500 5300 16500 5400
+Wire Wire Line
+	16500 5400 16500 5500
+Wire Wire Line
+	14400 6200 14900 6200
+Wire Wire Line
+	14900 6200 14900 5400
+Wire Wire Line
+	14900 5400 16500 5400
+Wire Wire Line
+	16500 5400 18300 5400
+Wire Wire Line
+	18300 5400 18900 5400
+Wire Wire Line
+	18900 5400 19000 5400
+Wire Wire Line
+	18900 5400 18900 5600
+Wire Wire Line
+	18900 5600 19800 5600
+Connection ~ 16500 5400
+Connection ~ 18900 5400
+Connection ~ 18300 5400
+Wire Wire Line
+	16500 6700 16500 6800
+Wire Wire Line
+	16500 6800 16500 6900
+Wire Wire Line
+	16500 6800 14400 6800
+Wire Wire Line
+	16500 6800 18300 6800
+Wire Wire Line
+	18300 6800 18900 6800
+Wire Wire Line
+	18900 6800 19000 6800
+Wire Wire Line
+	18900 7000 18900 6800
+Wire Wire Line
+	18900 7000 19800 7000
+Connection ~ 16500 6800
+Connection ~ 18900 6800
+Connection ~ 18300 6800
+Wire Wire Line
+	14400 6000 14700 6000
+Wire Wire Line
+	14700 6000 14700 5200
+Wire Wire Line
+	14700 5200 15400 5200
+Wire Wire Line
+	14400 6400 15100 6400
+Wire Wire Line
+	15100 6400 15100 5800
+Wire Wire Line
+	15100 5800 15400 5800
+Wire Wire Line
+	14400 6600 15400 6600
+Wire Wire Line
+	14400 7000 15300 7000
+Wire Wire Line
+	15300 7000 15300 7200
+Wire Wire Line
+	15300 7200 15400 7200
+Wire Wire Line
+	14400 7200 15100 7200
+Wire Wire Line
+	15100 7200 15100 8100
+Wire Wire Line
+	15100 8100 15400 8100
+Wire Wire Line
+	14400 7600 14700 7600
+Wire Wire Line
+	14700 7600 14700 8700
+Wire Wire Line
+	14700 8700 15400 8700
+Wire Wire Line
+	11900 8400 11900 8500
+Wire Wire Line
+	11900 8400 11900 8200
+Wire Wire Line
+	13900 8200 13900 8400
+Wire Wire Line
+	13900 8400 13500 8400
+Wire Wire Line
+	13500 8200 13500 8400
+Wire Wire Line
+	13500 8400 13100 8400
+Wire Wire Line
+	13100 8400 11900 8400
+Wire Wire Line
+	13100 8200 13100 8400
+Connection ~ 11900 8400
+Connection ~ 13500 8400
+Connection ~ 13100 8400
+Wire Wire Line
+	11900 8900 11900 9100
+Text Label 11900 8900 0    10   ~ 0
+GND
+Wire Wire Line
+	16500 5900 16800 5900
+Wire Wire Line
+	16800 5900 16800 7300
+Wire Wire Line
+	16800 7300 16800 8800
+Wire Wire Line
+	16800 8800 16800 8900
+Wire Wire Line
+	16500 8800 16800 8800
+Wire Wire Line
+	16500 7300 16800 7300
+Wire Wire Line
+	14400 7800 14600 7800
+Wire Wire Line
+	14600 7800 14600 8900
+Wire Wire Line
+	14600 8900 16800 8900
+Wire Wire Line
+	16800 9400 16800 8900
+Connection ~ 16800 8800
+Connection ~ 16800 7300
+Connection ~ 16800 8900
+Text Label 16500 5900 0    10   ~ 0
+GND
+Wire Wire Line
+	20500 7500 21100 7500
+Wire Wire Line
+	21100 7500 21100 7200
+Connection ~ 20500 7500
+Text Label 20500 7500 0    10   ~ 0
+GND
+Wire Wire Line
+	20500 6100 21100 6100
+Wire Wire Line
+	21100 6100 21100 5800
+Wire Wire Line
+	19900 6200 19900 6100
+Wire Wire Line
+	19900 6100 20200 6100
+Wire Wire Line
+	20200 6200 20200 6100
+Wire Wire Line
+	20200 6100 20500 6100
+Connection ~ 20500 6100
+Connection ~ 20200 6100
+Text Label 20500 6100 0    10   ~ 0
+GND
+Wire Wire Line
+	17400 4700 17400 5100
+Wire Wire Line
+	17400 5100 17300 5100
+Connection ~ 17400 5100
+Text Label 17400 4700 0    10   ~ 0
+GND
+Wire Wire Line
+	20800 4700 20800 5000
+Connection ~ 20800 5000
+Text Label 20800 4700 0    10   ~ 0
+GND
+Wire Wire Line
+	12300 7600 12300 8200
+Wire Wire Line
+	12300 8200 12600 8200
+Wire Wire Line
+	12300 7600 12100 7600
+Connection ~ 12300 7600
+Text Label 12300 7600 0    10   ~ 0
+GND
+Wire Wire Line
+	12700 4700 12400 4700
+Text Label 12700 4700 0    10   ~ 0
+GND
+Wire Wire Line
+	8800 4200 8600 4200
+Wire Wire Line
+	8600 4200 8600 5200
+Wire Wire Line
+	8600 5200 10400 5200
+Wire Wire Line
+	10400 5200 10400 4000
+Wire Wire Line
+	10400 4000 10100 4000
+Connection ~ 10400 5200
+Text Label 8800 4200 0    10   ~ 0
+GND
+Wire Wire Line
+	4100 9400 4100 8800
+Wire Wire Line
+	4100 8800 4600 8800
+Wire Wire Line
+	4600 8800 4600 8900
+Text Label 4100 9400 0    10   ~ 0
+GND
+Wire Wire Line
+	6801 9101 7200 9100
+Text Label 7000 9100 0    70   ~ 0
+GND
+Wire Wire Line
+	6300 7800 6300 7900
+Wire Wire Line
+	6300 7900 6400 7900
+Wire Wire Line
+	6400 7900 6500 7900
+Wire Wire Line
+	6500 7900 6500 7800
+Wire Wire Line
+	6400 7800 6400 7900
+Wire Wire Line
+	6400 7900 6400 8100
+Connection ~ 6400 7900
+Text Label 6300 7800 0    10   ~ 0
+GND
+Wire Wire Line
+	5800 5100 5800 5800
+Wire Wire Line
+	5800 5800 6000 5800
+Wire Wire Line
+	6000 5800 6000 6000
+Connection ~ 6000 5800
+Text Label 5800 5100 0    10   ~ 0
+GND
+Wire Wire Line
+	3400 8000 3400 7900
+Text Label 3400 8000 0    10   ~ 0
+GND
+Wire Wire Line
+	3800 1300 3800 1700
+Wire Wire Line
+	3500 1300 3800 1300
+Wire Wire Line
+	3500 1200 3500 1300
+Wire Wire Line
+	3500 1200 3200 1200
+Connection ~ 3500 1300
+Text Label 3800 1300 0    10   ~ 0
+GND
+Wire Wire Line
+	7800 2700 7800 2800
+Wire Wire Line
+	7800 2700 8100 2700
+Wire Wire Line
+	8100 2700 8100 2600
+Connection ~ 7800 2700
+Text Label 7800 2700 0    10   ~ 0
+GND
+Wire Wire Line
+	6900 1300 7200 1300
+Wire Wire Line
+	7200 1300 7500 1300
+Wire Wire Line
+	7500 1300 7800 1300
+Wire Wire Line
+	7800 1300 8100 1300
+Wire Wire Line
+	8100 1300 8100 1400
+Wire Wire Line
+	9300 1400 8700 1400
+Wire Wire Line
+	8700 1400 8700 1300
+Wire Wire Line
+	8100 1400 8700 1400
+Connection ~ 7500 1300
+Connection ~ 7200 1300
+Connection ~ 7800 1300
+Connection ~ 6900 1300
+Connection ~ 8100 1300
+Connection ~ 8700 1400
+Text Label 6900 1300 0    10   ~ 0
+GND
+Wire Wire Line
+	10200 2600 10200 2800
+Text Label 10200 2600 0    10   ~ 0
+GND
+Wire Wire Line
+	11700 2600 11700 2800
+Text Label 11700 2600 0    10   ~ 0
+GND
+Wire Wire Line
+	12000 2600 12000 2800
+Text Label 12000 2600 0    10   ~ 0
+GND
+Wire Wire Line
+	7000 2800 7000 2700
+Text Label 7000 2800 0    10   ~ 0
+GND
+Wire Wire Line
+	8800 8100 8100 8100
+Text Label 8200 8100 0    70   ~ 0
+GND
+Wire Wire Line
+	11000 4700 11000 4600
+Text Label 11000 4700 0    10   ~ 0
+GND
+Wire Wire Line
+	21600 1900 20800 1900
+Text Label 20900 1900 0    70   ~ 0
+GND
+Wire Wire Line
+	2500 6600 2300 6600
+Wire Wire Line
+	2300 6600 2300 6500
+Wire Wire Line
+	2300 6600 2300 6800
+Connection ~ 2300 6600
+Text Label 2500 6600 0    10   ~ 0
+GND
+Wire Wire Line
+	11200 2800 11200 2700
+Text Label 11200 2800 0    10   ~ 0
+GND
+Wire Wire Line
+	5500 4000 5600 4000
+Wire Wire Line
+	5600 4000 5600 4200
+Wire Wire Line
+	5500 3900 5500 4000
+Connection ~ 5500 4000
+Text Label 5500 4000 0    10   ~ 0
+GND
+Wire Wire Line
+	1000 1200 1300 1200
+Wire Wire Line
+	1300 1200 1600 1200
+Wire Wire Line
+	1600 1200 1900 1200
+Wire Wire Line
+	1900 1200 2200 1200
+Connection ~ 1300 1200
+Connection ~ 1600 1200
+Connection ~ 1900 1200
+Text Label 1000 1200 0    10   ~ 0
+GND
+Wire Wire Line
+	21400 8700 20400 8700
+Text Label 20400 8700 0    70   ~ 0
+GND
+Wire Wire Line
+	17400 2800 17400 3000
+Wire Wire Line
+	17400 3000 17500 3000
+Wire Wire Line
+	17500 3000 17600 3000
+Wire Wire Line
+	17600 3000 17600 2800
+Wire Wire Line
+	17500 2800 17500 3000
+Connection ~ 17500 3000
+Text Label 17400 2800 0    10   ~ 0
+GND
+Wire Wire Line
+	18700 3400 18700 3300
+Text Label 18700 3400 0    10   ~ 0
+GND
+Wire Wire Line
+	14500 1700 14600 1700
+Wire Wire Line
+	14600 1700 14600 1600
+Wire Wire Line
+	14600 1600 14500 1600
+Connection ~ 14600 1600
+Text Label 14500 1700 0    10   ~ 0
+GND
+Wire Wire Line
+	15600 2400 15600 2500
+Wire Wire Line
+	15600 2500 15600 2600
+Wire Wire Line
+	15900 2400 15900 2500
+Wire Wire Line
+	15900 2500 15600 2500
+Connection ~ 15600 2500
+Text Label 15600 2400 0    10   ~ 0
+GND
+Wire Wire Line
+	16400 1500 16400 1400
+Wire Wire Line
+	16400 1400 16200 1400
+Connection ~ 16400 1400
+Text Label 16400 1500 0    10   ~ 0
+GND
+Wire Wire Line
+	5700 3200 5700 3100
+Wire Wire Line
+	5300 3100 5300 3200
+Wire Wire Line
+	5700 3200 5300 3200
+Wire Wire Line
+	5300 3200 4500 3200
+Wire Wire Line
+	4500 3200 4500 2800
+Wire Wire Line
+	5700 3200 6300 3200
+Wire Wire Line
+	6300 3200 6300 3100
+Connection ~ 5300 3200
+Connection ~ 5700 3200
+Text Label 5700 3200 0    10   ~ 0
+GND
+Wire Wire Line
+	13300 5400 13300 5000
+Wire Wire Line
+	13300 4700 13500 4700
+Wire Wire Line
+	13500 4700 13500 5400
+Wire Wire Line
+	13800 5400 13800 5300
+Wire Wire Line
+	20500 4500 20500 4700
+Wire Wire Line
+	20500 4700 20500 4900
+Wire Wire Line
+	20500 4900 20500 5000
+Wire Wire Line
+	20500 5000 20500 5100
+Wire Wire Line
+	20500 4900 18700 4900
+Wire Wire Line
+	18700 4900 18700 6500
+Wire Wire Line
+	18700 6500 19700 6500
+Wire Wire Line
+	19700 6500 19900 6500
+Wire Wire Line
+	19900 6500 20200 6500
+Wire Wire Line
+	20200 6500 20500 6500
+Wire Wire Line
+	19800 7200 19700 7200
+Wire Wire Line
+	19700 7200 19700 6500
+Wire Wire Line
+	19800 5800 19700 5800
+Wire Wire Line
+	19700 5800 19700 6500
+Connection ~ 20500 4900
+Connection ~ 20500 4700
+Connection ~ 19900 6500
+Connection ~ 20200 6500
+Connection ~ 20500 5000
+Connection ~ 19700 6500
+Wire Wire Line
+	21100 7000 21400 7000
+Wire Wire Line
+	21400 7000 21400 5600
+Wire Wire Line
+	21400 5600 21400 4500
+Wire Wire Line
+	21100 5600 21400 5600
+Connection ~ 21400 5600
+Wire Wire Line
+	21100 5400 21600 5400
+Wire Wire Line
+	21100 6800 21600 6800
+Wire Wire Line
+	22000 5400 22100 5400
+Wire Wire Line
+	22100 5400 23100 5400
+Connection ~ 22100 5400
+Text Label 22300 5400 0    70   ~ 0
+I_PHASEA
+Wire Wire Line
+	4600 7200 3700 7200
+Text Label 3800 7200 0    70   ~ 0
+I_PHASEA
+Wire Wire Line
+	22000 6800 22100 6800
+Wire Wire Line
+	22100 6800 23200 6800
+Connection ~ 22100 6800
+Text Label 22300 6800 0    70   ~ 0
+I_PHASEB
+Wire Wire Line
+	4600 7300 3700 7300
+Text Label 3800 7300 0    70   ~ 0
+I_PHASEB
+Wire Wire Line
+	14400 5800 14400 4800
+Wire Wire Line
+	14400 4800 14400 4700
+Wire Wire Line
+	13800 5000 13800 4700
+Wire Wire Line
+	13800 4700 14400 4700
+Wire Wire Line
+	14400 4700 16500 4700
+Wire Wire Line
+	16500 4700 16500 4900
+Wire Wire Line
+	16500 4700 16500 4000
+Wire Wire Line
+	16500 4900 16600 4900
+Wire Wire Line
+	16600 4900 16600 6300
+Wire Wire Line
+	16600 6300 16600 7800
+Wire Wire Line
+	16600 7800 16500 7800
+Wire Wire Line
+	16500 6300 16600 6300
+Wire Wire Line
+	14200 5000 14200 4800
+Wire Wire Line
+	14200 4800 14400 4800
+Connection ~ 14400 4700
+Connection ~ 16500 4700
+Connection ~ 16600 6300
+Connection ~ 16500 4900
+Connection ~ 14400 4800
+Text Label 14400 5800 0    10   ~ 0
+V+
+Wire Wire Line
+	6900 1000 7200 1000
+Wire Wire Line
+	7200 1000 7500 1000
+Wire Wire Line
+	7500 1000 7800 1000
+Wire Wire Line
+	7800 1000 8100 1000
+Wire Wire Line
+	8700 1100 8700 1000
+Wire Wire Line
+	8700 1000 8100 1000
+Wire Wire Line
+	3500 1000 4500 1000
+Wire Wire Line
+	4500 1000 5200 1000
+Wire Wire Line
+	5200 1000 5200 1400
+Wire Wire Line
+	4500 1800 4500 1000
+Wire Wire Line
+	6900 1000 6600 1000
+Wire Wire Line
+	6600 1000 5200 1000
+Wire Wire Line
+	3500 1100 3500 1000
+Wire Wire Line
+	8700 1000 9300 1000
+Wire Wire Line
+	3500 1000 3200 1000
+Connection ~ 7500 1000
+Connection ~ 7200 1000
+Connection ~ 7800 1000
+Connection ~ 4500 1000
+Connection ~ 5200 1000
+Connection ~ 6900 1000
+Connection ~ 8100 1000
+Connection ~ 3500 1000
+Connection ~ 8700 1000
+Connection ~ 6600 1000
+Text Label 6900 1000 0    10   ~ 0
+V+
+Wire Wire Line
+	17000 4700 16900 4700
+Wire Wire Line
+	17000 4700 17000 5100
+Wire Wire Line
+	17000 4700 17000 4000
+Connection ~ 17000 4700
+Text Label 17000 4500 1    70   ~ 0
+V_SUPPLY
+Wire Wire Line
+	4600 6400 3700 6400
+Text Label 3775 6400 0    70   ~ 0
+V_SUPPLY
+Wire Wire Line
+	13700 8200 13700 8500
+Wire Wire Line
+	13700 8500 14300 8500
+Connection ~ 13700 8500
+Text Label 14100 8500 0    70   ~ 0
+HC+
+Wire Wire Line
+	21400 9300 20400 9300
+Text Label 20400 9300 0    70   ~ 0
+HC+
+Wire Wire Line
+	13300 8200 13300 9000
+Wire Wire Line
+	13300 9000 14300 9000
+Connection ~ 13300 9000
+Text Label 14100 9000 0    70   ~ 0
+HB+
+Wire Wire Line
+	21400 9100 20400 9100
+Text Label 20400 9100 0    70   ~ 0
+HB+
+Wire Wire Line
+	12900 8200 12900 9500
+Wire Wire Line
+	12900 9500 14300 9500
+Connection ~ 12900 9500
+Text Label 14100 9500 0    70   ~ 0
+HA+
+Wire Wire Line
+	21400 8900 20400 8900
+Text Label 20400 8900 0    70   ~ 0
+HA+
+Wire Wire Line
+	19400 5400 19600 5400
+Wire Wire Line
+	19600 5400 19800 5400
+Wire Wire Line
+	19600 5400 19600 7900
+Wire Wire Line
+	19600 7900 21400 7900
+Connection ~ 19600 5400
+Text Label 20400 7900 0    70   ~ 0
+MOTOR_PHASE_A
+Wire Wire Line
+	19400 6800 19800 6800
+Wire Wire Line
+	19400 6800 19400 8100
+Wire Wire Line
+	19400 8100 21400 8100
+Connection ~ 19400 6800
+Text Label 20400 8100 0    70   ~ 0
+MOTOR_PHASE_B
+Wire Wire Line
+	18300 8300 21400 8300
+Wire Wire Line
+	16500 8200 16500 8300
+Wire Wire Line
+	16500 8300 16500 8400
+Wire Wire Line
+	14400 7400 14900 7400
+Wire Wire Line
+	14900 7400 14900 8300
+Wire Wire Line
+	14900 8300 16500 8300
+Wire Wire Line
+	16500 8300 18300 8300
+Text Label 20400 8300 0    70   ~ 0
+MOTOR_PHASE_C
+Connection ~ 16500 8300
+Connection ~ 18300 8300
+Wire Wire Line
+	21400 8500 20400 8500
+Text Label 20400 8500 0    70   ~ 0
+HALL_SUPPLY
+Wire Wire Line
+	11900 7800 11900 5100
+Wire Wire Line
+	11900 5100 13000 5100
+Wire Wire Line
+	13000 5100 13000 5400
+Wire Wire Line
+	13000 5100 13000 3900
+Wire Wire Line
+	12700 3900 13000 3900
+Wire Wire Line
+	13000 3900 15400 3900
+Connection ~ 13000 5100
+Connection ~ 13000 3900
+Text Label 14200 3900 0    70   ~ 0
+HALL_SUPPLY
+Wire Wire Line
+	12300 6700 10900 6700
+Text Label 11000 6700 0    70   ~ 0
+BRAKE
+Wire Wire Line
+	4600 6700 3700 6700
+Text Label 3800 6700 0    70   ~ 0
+BRAKE
+Wire Wire Line
+	12300 7000 10900 7000
+Text Label 11000 7000 0    70   ~ 0
+ENABLE
+Wire Wire Line
+	7800 7500 9000 7500
+Text Label 8300 7500 0    70   ~ 0
+ENABLE
+Wire Wire Line
+	12300 7300 10900 7300
+Text Label 11000 7300 0    70   ~ 0
+DIRECTION
+Wire Wire Line
+	7800 7400 9000 7400
+Text Label 8300 7400 0    70   ~ 0
+DIRECTION
+Wire Wire Line
+	6201 9201 5800 9200
+Text Label 5800 9200 0    70   ~ 0
++5V
+Wire Wire Line
+	7700 2100 7800 2100
+Wire Wire Line
+	7800 2100 8100 2100
+Wire Wire Line
+	7800 2400 7800 2100
+Wire Wire Line
+	8100 2300 8100 2100
+Wire Wire Line
+	8100 2100 8500 2100
+Wire Wire Line
+	8500 2100 8900 2100
+Wire Wire Line
+	7600 2300 7800 2100
+Wire Wire Line
+	7600 2300 6100 2300
+Connection ~ 7800 2100
+Connection ~ 8100 2100
+Connection ~ 8500 2100
+Text Label 7700 2100 0    10   ~ 0
++5V
+Wire Wire Line
+	10000 2100 10200 2100
+Wire Wire Line
+	10200 2100 10500 2100
+Wire Wire Line
+	10500 2100 10700 2100
+Wire Wire Line
+	10200 2300 10200 2100
+Wire Wire Line
+	10700 2300 10500 2300
+Wire Wire Line
+	10500 2300 10500 2100
+Connection ~ 10200 2100
+Connection ~ 10500 2100
+Text Label 10000 2100 0    10   ~ 0
++5V
+Wire Wire Line
+	13300 9900 12900 9900
+Wire Wire Line
+	13300 9400 13300 9900
+Wire Wire Line
+	13700 9900 13300 9900
+Wire Wire Line
+	13700 8900 13700 9900
+Wire Wire Line
+	13700 9900 14000 9900
+Connection ~ 13300 9900
+Connection ~ 13700 9900
+Text Label 13300 9900 0    10   ~ 0
++5V
+Wire Wire Line
+	21600 1800 20800 1800
+Text Label 20900 1800 0    70   ~ 0
++5V
+Wire Wire Line
+	6500 6100 6500 5600
+Wire Wire Line
+	6500 5600 6500 5300
+Wire Wire Line
+	6900 5600 6500 5600
+Connection ~ 6500 5600
+Wire Wire Line
+	6500 4900 6500 4800
+Wire Wire Line
+	6500 4800 7100 4800
+Wire Wire Line
+	6500 4800 6500 4600
+Wire Wire Line
+	6300 6100 6300 4800
+Wire Wire Line
+	6300 4800 6500 4800
+Wire Wire Line
+	6300 4800 5800 4800
+Connection ~ 6500 4800
+Connection ~ 6300 4800
+Text Label 6500 4900 0    10   ~ 0
+VDD
+Wire Wire Line
+	4200 8300 4200 8400
+Wire Wire Line
+	4200 8400 4200 9400
+Wire Wire Line
+	4200 8400 4700 8400
+Wire Wire Line
+	4700 8400 4700 8600
+Connection ~ 4200 8400
+Text Label 4200 8300 0    10   ~ 0
+VDD
+Wire Wire Line
+	11700 2100 12000 2100
+Wire Wire Line
+	12000 2100 12400 2100
+Wire Wire Line
+	12400 2100 12800 2100
+Wire Wire Line
+	11700 2300 11700 2100
+Wire Wire Line
+	12000 2300 12000 2100
+Wire Wire Line
+	11500 2100 11700 2100
+Connection ~ 11700 2100
+Connection ~ 12000 2100
+Connection ~ 12400 2100
+Text Label 11700 2100 0    10   ~ 0
+VDD
+Wire Wire Line
+	21400 3600 21400 4100
+Text Label 21400 3600 0    10   ~ 0
+VDD
+Wire Wire Line
+	9700 6200 9700 6300
+Text Label 9700 6200 0    10   ~ 0
+VDD
+Wire Wire Line
+	8800 4400 8300 4400
+Text Label 8800 4400 0    10   ~ 0
+VDD
+Wire Wire Line
+	1000 900  1300 900 
+Wire Wire Line
+	1300 900  1600 900 
+Wire Wire Line
+	1600 900  1900 900 
+Wire Wire Line
+	1900 900  2200 900 
+Connection ~ 1300 900 
+Connection ~ 1600 900 
+Connection ~ 1900 900 
+Text Label 1000 900  0    10   ~ 0
+VDD
+Wire Wire Line
+	20500 3600 20500 4100
+Text Label 20500 3600 0    10   ~ 0
+VDD
+Wire Wire Line
+	3500 6400 3500 6200
+Wire Wire Line
+	3500 6200 2500 6200
+Wire Wire Line
+	2500 6200 2500 6400
+Wire Wire Line
+	2500 6200 2300 6200
+Connection ~ 2500 6200
+Connection ~ 2300 6200
+Text Label 3500 6400 0    10   ~ 0
+VDD
+Wire Wire Line
+	17400 1200 17400 1100
+Wire Wire Line
+	17400 1100 17600 1100
+Wire Wire Line
+	17600 1100 17600 1200
+Wire Wire Line
+	16800 1500 16700 1500
+Wire Wire Line
+	16700 1500 16700 1100
+Wire Wire Line
+	16700 1100 17400 1100
+Wire Wire Line
+	17400 1100 17400 900 
+Wire Wire Line
+	16700 1100 16400 1100
+Wire Wire Line
+	16400 1100 16200 1100
+Connection ~ 17400 1100
+Connection ~ 16700 1100
+Connection ~ 16400 1100
+Text Label 17400 1200 0    10   ~ 0
+VDD
+Wire Wire Line
+	19600 2500 19600 2200
+Wire Wire Line
+	19600 2200 19600 2100
+Wire Wire Line
+	19400 2200 19600 2200
+Wire Wire Line
+	19600 2500 19400 2500
+Connection ~ 19600 2200
+Text Label 19600 2500 0    10   ~ 0
+VDD
+Wire Wire Line
+	7800 6800 9000 6800
+Text Label 8300 6800 0    70   ~ 0
+QEA
+Wire Wire Line
+	3500 3500 3900 3500
+Text Label 3700 3500 0    70   ~ 0
+QEA
+Wire Wire Line
+	7800 6900 9000 6900
+Text Label 8300 6900 0    70   ~ 0
+QEB
+Wire Wire Line
+	3500 4900 3900 4900
+Text Label 3600 4900 0    70   ~ 0
+QEB
+Wire Wire Line
+	8800 8700 8100 8700
+Text Label 8200 8700 0    70   ~ 0
+MOSI
+Wire Wire Line
+	7800 7300 9000 7300
+Text Label 8300 7300 0    70   ~ 0
+MOSI
+Wire Wire Line
+	7800 7200 9000 7200
+Text Label 8300 7200 0    70   ~ 0
+MISO
+Wire Wire Line
+	8800 8900 8100 8900
+Text Label 8200 8900 0    70   ~ 0
+MISO
+Wire Wire Line
+	4600 7400 3700 7400
+Text Label 3800 7400 0    70   ~ 0
+SCK
+Wire Wire Line
+	8800 8300 8100 8300
+Text Label 8200 8300 0    70   ~ 0
+SCK
+Wire Wire Line
+	10100 4200 11000 4200
+Text Label 10700 4200 0    70   ~ 0
+CANH
+Wire Wire Line
+	10100 4400 11000 4400
+Text Label 10700 4400 0    70   ~ 0
+CANL
+Wire Wire Line
+	7800 6700 9700 6700
+Text Label 8300 6700 0    70   ~ 0
+SS
+Wire Wire Line
+	8800 8500 8100 8500
+Text Label 8200 8500 0    70   ~ 0
+SS
+Wire Wire Line
+	4300 8600 4300 9400
+Wire Wire Line
+	4300 8000 4300 8600
+Connection ~ 4300 8600
+Text Label 4300 9300 1    70   ~ 0
+MCLR#
+Wire Wire Line
+	4900 4000 4500 4000
+Wire Wire Line
+	4900 3900 4900 4000
+Connection ~ 4900 4000
+Text Label 4500 4000 0    70   ~ 0
+MCLR#
+Wire Wire Line
+	6801 8901 7200 8900
+Text Label 7200 8900 0    70   ~ 0
+-B
+Wire Wire Line
+	2500 5100 2300 5100
+Text Label 2300 5100 0    70   ~ 0
+-B
+Wire Wire Line
+	6201 8901 5800 8900
+Text Label 5800 8900 0    70   ~ 0
++B
+Wire Wire Line
+	2500 4700 2300 4700
+Text Label 2300 4700 0    70   ~ 0
++B
+Wire Wire Line
+	6801 9001 7200 9000
+Text Label 7200 9000 0    70   ~ 0
+-A
+Wire Wire Line
+	2500 3700 2300 3700
+Text Label 2300 3700 0    70   ~ 0
+-A
+Wire Wire Line
+	6201 9001 5800 9000
+Text Label 5800 9000 0    70   ~ 0
++A
+Wire Wire Line
+	2500 3300 2300 3300
+Text Label 2300 3300 0    70   ~ 0
++A
+Wire Wire Line
+	6400 6100 6400 5500
+Wire Wire Line
+	6400 5500 6000 5500
+Wire Wire Line
+	4000 9400 4000 8700
+Wire Wire Line
+	4000 8700 4000 8300
+Wire Wire Line
+	3600 8700 4000 8700
+Text Label 4000 9000 1    70   ~ 0
+PGD
+Connection ~ 4000 8700
+Wire Wire Line
+	4600 7000 3800 7000
+Text Label 3800 7000 0    70   ~ 0
+PGD
+Wire Wire Line
+	3900 9400 3900 8600
+Wire Wire Line
+	3900 8600 3900 8300
+Wire Wire Line
+	3600 8600 3900 8600
+Text Label 3900 9000 1    70   ~ 0
+PGC
+Connection ~ 3900 8600
+Wire Wire Line
+	4600 7100 3800 7100
+Text Label 3800 7100 0    70   ~ 0
+PGC
+Wire Wire Line
+	3400 7500 3400 7600
+Wire Wire Line
+	3400 7100 3400 6800
+Wire Wire Line
+	3400 6800 4600 6800
+Wire Wire Line
+	6300 2100 7000 2100
+Wire Wire Line
+	7000 2100 7100 2100
+Wire Wire Line
+	7000 2500 7000 2100
+Wire Wire Line
+	6100 2100 6300 2100
+Wire Wire Line
+	6300 2000 6300 2100
+Connection ~ 7000 2100
+Connection ~ 6300 2100
+Wire Wire Line
+	21600 2000 20800 2000
+Text Label 20900 2000 0    70   ~ 0
+DIS_I
+Wire Wire Line
+	21600 2100 20800 2100
+Text Label 20900 2100 0    70   ~ 0
+DIS_A
+Wire Wire Line
+	7800 7100 9000 7100
+Text Label 8300 7100 0    70   ~ 0
+DIS_A
+Wire Wire Line
+	21600 2200 20800 2200
+Text Label 20900 2200 0    70   ~ 0
+DIS_B
+Wire Wire Line
+	7800 7000 9000 7000
+Text Label 8300 7000 0    70   ~ 0
+DIS_B
+Wire Wire Line
+	21600 2300 20800 2300
+Text Label 20900 2300 0    70   ~ 0
+DIS_AO
+Wire Wire Line
+	4600 6500 3700 6500
+Text Label 3800 6500 0    70   ~ 0
+DIS_AO
+Wire Wire Line
+	4600 6600 3500 6600
+Wire Wire Line
+	7800 6500 8300 6500
+Wire Wire Line
+	8300 4600 8800 4600
+Text Label 7900 6500 0    70   ~ 0
+RXD
+Wire Wire Line
+	8400 6600 7800 6600
+Wire Wire Line
+	8800 4000 8400 4000
+Text Label 7900 6600 0    70   ~ 0
+TXD
+Wire Wire Line
+	4600 7600 4300 7600
+Wire Wire Line
+	16800 1800 16400 1800
+Text Label 16400 1800 0    70   ~ 0
+USBDM
+Wire Wire Line
+	16800 2000 16400 2000
+Text Label 16400 2000 0    70   ~ 0
+USBDP
+Wire Wire Line
+	19200 2900 19600 2900
+Text Label 19200 2900 0    70   ~ 0
+VBUS_SENSE
+Wire Wire Line
+	14500 2000 15100 2000
+Text Label 14500 2000 0    70   ~ 0
+VBUS_SENSE
+Wire Wire Line
+	16000 1800 15900 1800
+Wire Wire Line
+	15900 1800 15700 1800
+Wire Wire Line
+	15900 2100 15900 1800
+Wire Wire Line
+	15700 1800 15700 1900
+Wire Wire Line
+	15700 1900 14500 1900
+Connection ~ 15900 1800
+Wire Wire Line
+	16000 2000 15600 2000
+Wire Wire Line
+	15600 2100 15600 2000
+Wire Wire Line
+	15600 2000 15600 1800
+Wire Wire Line
+	15600 1800 14500 1800
+Connection ~ 15600 2000
+Wire Wire Line
+	18200 2400 18500 2400
+Wire Wire Line
+	18500 2400 18500 2200
+Wire Wire Line
+	18500 2200 18600 2200
+Wire Wire Line
+	18800 2900 18700 2900
+Wire Wire Line
+	18700 2900 18700 2600
+Wire Wire Line
+	18700 2600 18200 2600
+Connection ~ 18700 2900
+Wire Wire Line
+	3000 8600 2400 8600
+Text Label 2500 8600 0    70   ~ 0
+USB_TXD
+Wire Wire Line
+	18200 1400 19200 1400
+Text Label 18425 1400 0    70   ~ 0
+USB_TXD
+Wire Wire Line
+	3000 8700 2400 8700
+Text Label 2500 8700 0    70   ~ 0
+USB_RXD
+Wire Wire Line
+	18200 1500 19200 1500
+Text Label 18400 1500 0    70   ~ 0
+USB_RXD
+Wire Wire Line
+	19000 2200 19100 2200
+Wire Wire Line
+	19100 2500 19000 2500
+Wire Wire Line
+	18600 2500 18200 2500
+Wire Wire Line
+	4500 2400 4500 2300
+Wire Wire Line
+	4500 2300 4500 2200
+Wire Wire Line
+	4900 2300 4500 2300
+Connection ~ 4500 2300
+Wire Wire Line
+	6100 2700 6300 2700
+Wire Wire Line
+	6300 2700 6300 2800
+Wire Wire Line
+	6300 1700 6100 1700
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0603 R1
+U 1 0 B8E1D68D8C24140D
+P 15600 5200
+F 0 "R1" H 15450 5259 59  0000 L BNN
+F 1 "10R" H 15450 5070 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0603" H 15600 5200 50  0001 C CNN
+F 3 "" H 15600 5200 50  0001 C CNN
+	1    15600 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0603 R2
+U 1 0 899A7597B4222698
+P 15600 5800
+F 0 "R2" H 15450 5859 59  0000 L BNN
+F 1 "10R" H 15450 5670 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0603" H 15600 5800 50  0001 C CNN
+F 3 "" H 15600 5800 50  0001 C CNN
+	1    15600 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0603 R3
+U 1 0 72882871139CE153
+P 15600 6600
+F 0 "R3" H 15450 6659 59  0000 L BNN
+F 1 "10R" H 15450 6470 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0603" H 15600 6600 50  0001 C CNN
+F 3 "" H 15600 6600 50  0001 C CNN
+	1    15600 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0603 R4
+U 1 0 8E49CE82AD42E28A
+P 15600 7200
+F 0 "R4" H 15450 7259 59  0000 L BNN
+F 1 "10R" H 15450 7070 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0603" H 15600 7200 50  0001 C CNN
+F 3 "" H 15600 7200 50  0001 C CNN
+	1    15600 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0603 R5
+U 1 0 36AB0ADB32FA0B12
+P 15600 8100
+F 0 "R5" H 15450 8159 59  0000 L BNN
+F 1 "10R" H 15450 7970 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0603" H 15600 8100 50  0001 C CNN
+F 3 "" H 15600 8100 50  0001 C CNN
+	1    15600 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0603 R6
+U 1 0 1565C614A379094F
+P 15600 8700
+F 0 "R6" H 15450 8759 59  0000 L BNN
+F 1 "10R" H 15450 8570 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0603" H 15600 8700 50  0001 C CNN
+F 3 "" H 15600 8700 50  0001 C CNN
+	1    15600 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R2512 R7
+U 1 0 E293F4AA197E79B4
+P 19200 5400
+F 0 "R7" H 19050 5459 59  0000 L BNN
+F 1 "0R01" H 19050 5270 59  0000 L BNN
+F 2 "motor drive 9y_protection:R2512" H 19200 5400 50  0001 C CNN
+F 3 "" H 19200 5400 50  0001 C CNN
+	1    19200 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R2512 R8
+U 1 0 9C40899934AF2EEC
+P 19200 6800
+F 0 "R8" H 19050 6859 59  0000 L BNN
+F 1 "0R01" H 19050 6670 59  0000 L BNN
+F 2 "motor drive 9y_protection:R2512" H 19200 6800 50  0001 C CNN
+F 3 "" H 19200 6800 50  0001 C CNN
+	1    19200 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R10
+U 1 0 97512B480A067037
+P 12900 9700
+F 0 "R10" H 12750 9759 59  0000 L BNN
+F 1 "10k" H 12750 9570 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 12900 9700 50  0001 C CNN
+F 3 "" H 12900 9700 50  0001 C CNN
+	1    12900 9700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R11
+U 1 0 AEA35BACBC243054
+P 13300 9200
+F 0 "R11" H 13150 9259 59  0000 L BNN
+F 1 "10k" H 13150 9070 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 13300 9200 50  0001 C CNN
+F 3 "" H 13300 9200 50  0001 C CNN
+	1    13300 9200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R12
+U 1 0 14C551D80E8D017C
+P 13700 8700
+F 0 "R12" H 13550 8759 59  0000 L BNN
+F 1 "10k" H 13550 8570 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 13700 8700 50  0001 C CNN
+F 3 "" H 13700 8700 50  0001 C CNN
+	1    13700 8700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R13
+U 1 0 8A808E05EF8124EC
+P 11900 8700
+F 0 "R13" H 11750 8759 59  0000 L BNN
+F 1 "47k" H 11750 8570 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 11900 8700 50  0001 C CNN
+F 3 "" H 11900 8700 50  0001 C CNN
+	1    11900 8700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R14
+U 1 0 96343D96B042223A
+P 11900 8000
+F 0 "R14" H 11750 8059 59  0000 L BNN
+F 1 "100k" H 11750 7870 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 11900 8000 50  0001 C CNN
+F 3 "" H 11900 8000 50  0001 C CNN
+	1    11900 8000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND01
+U 1 0 6F68935FDB8695AC
+P 11900 9200
+F 0 "#GND01" H 11900 9200 50  0001 C CNN
+F 1 "GND" H 11800 9100 59  0000 L BNN
+F 2 "" H 11900 9200 50  0001 C CNN
+F 3 "" H 11900 9200 50  0001 C CNN
+	1    11900 9200
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND02
+U 1 0 350FEA2913A376EC
+P 12100 7700
+F 0 "#GND02" H 12100 7700 50  0001 C CNN
+F 1 "GND" H 12000 7600 59  0000 L BNN
+F 2 "" H 12100 7700 50  0001 C CNN
+F 3 "" H 12100 7700 50  0001 C CNN
+	1    12100 7700
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND03
+U 1 0 21A7002F7679BDCC
+P 16800 9500
+F 0 "#GND03" H 16800 9500 50  0001 C CNN
+F 1 "GND" H 16700 9400 59  0000 L BNN
+F 2 "" H 16800 9500 50  0001 C CNN
+F 3 "" H 16800 9500 50  0001 C CNN
+	1    16800 9500
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C2
+U 1 0 DE3531F169098DAB
+P 13300 4800
+F 0 "C2" H 13360 4815 59  0000 L BNN
+F 1 "100n" H 13360 4615 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 13300 4800 50  0001 C CNN
+F 3 "" H 13300 4800 50  0001 C CNN
+	1    13300 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C3
+U 1 0 C6DC1DB80AE61553
+P 13800 5100
+F 0 "C3" H 13860 5115 59  0000 L BNN
+F 1 "100n" H 13860 4915 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 13800 5100 50  0001 C CNN
+F 3 "" H 13800 5100 50  0001 C CNN
+	1    13800 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND05
+U 1 0 D2D9FA1DEF27308A
+P 20500 7600
+F 0 "#GND05" H 20500 7600 50  0001 C CNN
+F 1 "GND" H 20400 7500 59  0000 L BNN
+F 2 "" H 20500 7600 50  0001 C CNN
+F 3 "" H 20500 7600 50  0001 C CNN
+	1    20500 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND06
+U 1 0 714A278CA07C0193
+P 20500 6200
+F 0 "#GND06" H 20500 6200 50  0001 C CNN
+F 1 "GND" H 20400 6100 59  0000 L BNN
+F 2 "" H 20500 6200 50  0001 C CNN
+F 3 "" H 20500 6200 50  0001 C CNN
+	1    20500 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0603 R16
+U 1 0 8D114173E03B69BA
+P 21800 5400
+F 0 "R16" H 21650 5459 59  0000 L BNN
+F 1 "10R" H 21650 5270 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0603" H 21800 5400 50  0001 C CNN
+F 3 "" H 21800 5400 50  0001 C CNN
+	1    21800 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0603 R17
+U 1 0 536AC040EEE75B6B
+P 21800 6800
+F 0 "R17" H 21650 6859 59  0000 L BNN
+F 1 "10R" H 21650 6670 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0603" H 21800 6800 50  0001 C CNN
+F 3 "" H 21800 6800 50  0001 C CNN
+	1    21800 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:V+ #P+01
+U 1 0 93600057BCDF72C5
+P 16500 3900
+F 0 "#P+01" H 16500 3900 50  0001 C CNN
+F 1 "V+" V 16400 3800 59  0000 L BNN
+F 2 "" H 16500 3900 50  0001 C CNN
+F 3 "" H 16500 3900 50  0001 C CNN
+	1    16500 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C4
+U 1 0 AE49E736D2EEF0C7
+P 22100 5500
+F 0 "C4" H 22160 5515 59  0000 L BNN
+F 1 "1nF" H 22160 5315 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 22100 5500 50  0001 C CNN
+F 3 "" H 22100 5500 50  0001 C CNN
+	1    22100 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C5
+U 1 0 6DA3639803B0DA62
+P 22100 6900
+F 0 "C5" H 22160 6915 59  0000 L BNN
+F 1 "1nF" H 22160 6715 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 22100 6900 50  0001 C CNN
+F 3 "" H 22100 6900 50  0001 C CNN
+	1    22100 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND04
+U 1 0 4B4BE4C0D896219B
+P 22100 7200
+F 0 "#GND04" H 22100 7200 50  0001 C CNN
+F 1 "GND" H 22000 7100 59  0000 L BNN
+F 2 "" H 22100 7200 50  0001 C CNN
+F 3 "" H 22100 7200 50  0001 C CNN
+	1    22100 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND07
+U 1 0 C51381239CDE76EF
+P 22100 5800
+F 0 "#GND07" H 22100 5800 50  0001 C CNN
+F 1 "GND" H 22000 5700 59  0000 L BNN
+F 2 "" H 22100 5800 50  0001 C CNN
+F 3 "" H 22100 5800 50  0001 C CNN
+	1    22100 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R24
+U 1 0 920F84513BEC5689
+P 16700 4700
+F 0 "R24" H 16550 4759 59  0000 L BNN
+F 1 "100k" H 16550 4570 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 16700 4700 50  0001 C CNN
+F 3 "" H 16700 4700 50  0001 C CNN
+	1    16700 4700
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R25
+U 1 0 F683D07C78F58F3B
+P 17200 4700
+F 0 "R25" H 17050 4759 59  0000 L BNN
+F 1 "4k7" H 17050 4570 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 17200 4700 50  0001 C CNN
+F 3 "" H 17200 4700 50  0001 C CNN
+	1    17200 4700
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C9
+U 1 0 15F3A8BA27EB63CA
+P 17100 5100
+F 0 "C9" H 17160 5115 59  0000 L BNN
+F 1 "100n" H 17160 4915 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 17100 5100 50  0001 C CNN
+F 3 "" H 17100 5100 50  0001 C CNN
+	1    17100 5100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND011
+U 1 0 25F2C17319DA8D48
+P 17400 5200
+F 0 "#GND011" H 17400 5200 50  0001 C CNN
+F 1 "GND" H 17300 5100 59  0000 L BNN
+F 2 "" H 17400 5200 50  0001 C CNN
+F 3 "" H 17400 5200 50  0001 C CNN
+	1    17400 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0805K C10
+U 1 0 21F9ED814F457455
+P 20600 4700
+F 0 "C10" H 20660 4715 59  0000 L BNN
+F 1 "10uF" H 20660 4515 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0805K" H 20600 4700 50  0001 C CNN
+F 3 "" H 20600 4700 50  0001 C CNN
+	1    20600 4700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0603K C11
+U 1 0 7E18CEAFC2E82A64
+P 19900 6400
+F 0 "C11" H 19960 6415 59  0000 L BNN
+F 1 "1uF" H 19960 6215 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0603K" H 19900 6400 50  0001 C CNN
+F 3 "" H 19900 6400 50  0001 C CNN
+	1    19900 6400
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0805K C12
+U 1 0 5F288262A2F8029B
+P 20200 6400
+F 0 "C12" H 20260 6415 59  0000 L BNN
+F 1 "10uF" H 20260 6215 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0805K" H 20200 6400 50  0001 C CNN
+F 3 "" H 20200 6400 50  0001 C CNN
+	1    20200 6400
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0603K C13
+U 1 0 15D41B5101759F2E
+P 20600 5000
+F 0 "C13" H 20660 5015 59  0000 L BNN
+F 1 "1uF" H 20660 4815 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0603K" H 20600 5000 50  0001 C CNN
+F 3 "" H 20600 5000 50  0001 C CNN
+	1    20600 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND012
+U 1 0 E034864A5F18D96
+P 20800 5100
+F 0 "#GND012" H 20800 5100 50  0001 C CNN
+F 1 "GND" H 20700 5000 59  0000 L BNN
+F 2 "" H 20800 5100 50  0001 C CNN
+F 3 "" H 20800 5100 50  0001 C CNN
+	1    20800 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND013
+U 1 0 1DDAFC179E3D6951
+P 12400 4800
+F 0 "#GND013" H 12400 4800 50  0001 C CNN
+F 1 "GND" H 12300 4700 59  0000 L BNN
+F 2 "" H 12400 4800 50  0001 C CNN
+F 3 "" H 12400 4800 50  0001 C CNN
+	1    12400 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C14
+U 1 0 B686F7E37E2E4EF0
+P 12700 4000
+F 0 "C14" H 12760 4015 59  0000 L BNN
+F 1 "100n" H 12760 3815 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 12700 4000 50  0001 C CNN
+F 3 "" H 12700 4000 50  0001 C CNN
+	1    12700 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND014
+U 1 0 E847186D109F320A
+P 12700 4300
+F 0 "#GND014" H 12700 4300 50  0001 C CNN
+F 1 "GND" H 12600 4200 59  0000 L BNN
+F 2 "" H 12700 4300 50  0001 C CNN
+F 3 "" H 12700 4300 50  0001 C CNN
+	1    12700 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:MCP2551 U$3
+U 1 0 7CC1341B0FC0DAE5
+P 9500 4700
+F 0 "U$3" H 9200 5600 59  0000 L BNN
+F 1 "SN65HVD230" H 9100 4600 59  0000 L BNN
+F 2 "motor drive 9y_protection:999" H 9500 4700 50  0001 C CNN
+F 3 "" H 9500 4700 50  0001 C CNN
+	1    9500 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0603K C15
+U 1 0 AF22654206613D84
+P 7100 5000
+F 0 "C15" H 7160 5015 59  0000 L BNN
+F 1 "1uF" H 7160 4815 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0603K" H 7100 5000 50  0001 C CNN
+F 3 "" H 7100 5000 50  0001 C CNN
+	1    7100 5000
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:VDD #VDD02
+U 1 0 C075D5297C316FBA
+P 6500 4500
+F 0 "#VDD02" H 6500 4500 50  0001 C CNN
+F 1 "VDD" V 6400 4400 59  0000 L BNN
+F 2 "" H 6500 4500 50  0001 C CNN
+F 3 "" H 6500 4500 50  0001 C CNN
+	1    6500 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND019
+U 1 0 906FD9F448B3EBD8
+P 7100 5200
+F 0 "#GND019" H 7100 5200 50  0001 C CNN
+F 1 "GND" H 7000 5100 59  0000 L BNN
+F 2 "" H 7100 5200 50  0001 C CNN
+F 3 "" H 7100 5200 50  0001 C CNN
+	1    7100 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND020
+U 1 0 1D4613EF2DF12463
+P 10400 5300
+F 0 "#GND020" H 10400 5300 50  0001 C CNN
+F 1 "GND" H 10300 5200 59  0000 L BNN
+F 2 "" H 10400 5300 50  0001 C CNN
+F 3 "" H 10400 5300 50  0001 C CNN
+	1    10400 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:VDD #VDD011
+U 1 0 C0227B694C588267
+P 4200 8200
+F 0 "#VDD011" H 4200 8200 50  0001 C CNN
+F 1 "VDD" V 4100 8100 59  0000 L BNN
+F 2 "" H 4200 8200 50  0001 C CNN
+F 3 "" H 4200 8200 50  0001 C CNN
+	1    4200 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND021
+U 1 0 C987055BCF593DC2
+P 4600 9000
+F 0 "#GND021" H 4600 9000 50  0001 C CNN
+F 1 "GND" H 4500 8900 59  0000 L BNN
+F 2 "" H 4600 9000 50  0001 C CNN
+F 3 "" H 4600 9000 50  0001 C CNN
+	1    4600 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R33
+U 1 0 C828F938C1118344
+P 4500 8600
+F 0 "R33" H 4350 8659 59  0000 L BNN
+F 1 "10k" H 4350 8470 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 4500 8600 50  0001 C CNN
+F 3 "" H 4500 8600 50  0001 C CNN
+	1    4500 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:MICRO_MATCH CON2
+U 1 0 3C0F1D11747B9458
+P 6500 9000
+F 0 "CON2" H 6352 9328 59  0000 L BNN
+F 1 "IDC 10" H 6352 8599 59  0000 L BNN
+F 2 "motor drive 9y_protection:MIRCO_MATCH" H 6500 9000 50  0001 C CNN
+F 3 "" H 6500 9000 50  0001 C CNN
+	1    6500 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C16
+U 1 0 56DC4573E207C13D
+P 2300 6400
+F 0 "C16" H 2360 6415 59  0000 L BNN
+F 1 "100n" H 2360 6215 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 2300 6400 50  0001 C CNN
+F 3 "" H 2300 6400 50  0001 C CNN
+	1    2300 6400
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND015
+U 1 0 CBE454F257B06B4
+P 2300 6900
+F 0 "#GND015" H 2300 6900 50  0001 C CNN
+F 1 "GND" H 2200 6800 59  0000 L BNN
+F 2 "" H 2300 6900 50  0001 C CNN
+F 3 "" H 2300 6900 50  0001 C CNN
+	1    2300 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND016
+U 1 0 8316678299D4D269
+P 6400 8200
+F 0 "#GND016" H 6400 8200 50  0001 C CNN
+F 1 "GND" H 6300 8100 59  0000 L BNN
+F 2 "" H 6400 8200 50  0001 C CNN
+F 3 "" H 6400 8200 50  0001 C CNN
+	1    6400 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C18
+U 1 0 E3A91BC652B654BE
+P 6000 5700
+F 0 "C18" H 6060 5715 59  0000 L BNN
+F 1 "100n" H 6060 5515 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 6000 5700 50  0001 C CNN
+F 3 "" H 6000 5700 50  0001 C CNN
+	1    6000 5700
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND017
+U 1 0 A9D98BED0A5A0AC8
+P 6000 6100
+F 0 "#GND017" H 6000 6100 50  0001 C CNN
+F 1 "GND" H 5900 6000 59  0000 L BNN
+F 2 "" H 6000 6100 50  0001 C CNN
+F 3 "" H 6000 6100 50  0001 C CNN
+	1    6000 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C19
+U 1 0 195DF9365D88D454
+P 5800 5000
+F 0 "C19" H 5860 5015 59  0000 L BNN
+F 1 "100n" H 5860 4815 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 5800 5000 50  0001 C CNN
+F 3 "" H 5800 5000 50  0001 C CNN
+	1    5800 5000
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:DSPIC33FJ128MC802QFN U$4
+U 1 0 4E25407E84E86E02
+P 6200 7000
+F 0 "U$4" H 4700 7760 59  0000 L BNN
+F 1 "DSPIC33FJ128MC802QFN" H 4700 6160 59  0000 L BNN
+F 2 "motor drive 9y_protection:QFN-S28-6X6" H 6200 7000 50  0001 C CNN
+F 3 "" H 6200 7000 50  0001 C CNN
+	1    6200 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:LEDCHIPLED_0603 LED1
+U 1 0 BD396442E8DA88C7
+P 3400 7700
+F 0 "LED1" V 3540 7520 59  0000 L BNN
+F 1 "Yellow" V 3625 7520 59  0000 L BNN
+F 2 "motor drive 9y_protection:CHIPLED_0603" H 3400 7700 50  0001 C CNN
+F 3 "" H 3400 7700 50  0001 C CNN
+	1    3400 7700
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R27
+U 1 0 4A5EEA5AFB3062E1
+P 3400 7300
+F 0 "R27" H 3250 7359 59  0000 L BNN
+F 1 "270R" H 3250 7170 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 3400 7300 50  0001 C CNN
+F 3 "" H 3400 7300 50  0001 C CNN
+	1    3400 7300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND018
+U 1 0 15FCDF69E0081D19
+P 3400 8100
+F 0 "#GND018" H 3400 8100 50  0001 C CNN
+F 1 "GND" H 3300 8000 59  0000 L BNN
+F 2 "" H 3400 8100 50  0001 C CNN
+F 3 "" H 3400 8100 50  0001 C CNN
+	1    3400 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND024
+U 1 0 D2BA7EC8664B2FAE
+P 3800 1800
+F 0 "#GND024" H 3800 1800 50  0001 C CNN
+F 1 "GND" H 3700 1700 59  0000 L BNN
+F 2 "" H 3800 1800 50  0001 C CNN
+F 3 "" H 3800 1800 50  0001 C CNN
+	1    3800 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND025
+U 1 0 824694312EE633C3
+P 7800 2900
+F 0 "#GND025" H 7800 2900 50  0001 C CNN
+F 1 "GND" H 7700 2800 59  0000 L BNN
+F 2 "" H 7800 2900 50  0001 C CNN
+F 3 "" H 7800 2900 50  0001 C CNN
+	1    7800 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND026
+U 1 0 9DF08A589E0685E6
+P 6900 1400
+F 0 "#GND026" H 6900 1400 50  0001 C CNN
+F 1 "GND" H 6800 1300 59  0000 L BNN
+F 2 "" H 6900 1400 50  0001 C CNN
+F 3 "" H 6900 1400 50  0001 C CNN
+	1    6900 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:+5V #P+02
+U 1 0 CA948EF4339DE9D3
+P 9000 2100
+F 0 "#P+02" H 9000 2100 50  0001 C CNN
+F 1 "+5V" V 8900 1900 59  0000 L BNN
+F 2 "" H 9000 2100 50  0001 C CNN
+F 3 "" H 9000 2100 50  0001 C CNN
+	1    9000 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:+5V #P+05
+U 1 0 708E00B833ACA7EC
+P 10000 2000
+F 0 "#P+05" H 10000 2000 50  0001 C CNN
+F 1 "+5V" V 9900 1800 59  0000 L BNN
+F 2 "" H 10000 2000 50  0001 C CNN
+F 3 "" H 10000 2000 50  0001 C CNN
+	1    10000 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C36
+U 1 0 F9621CDBCB733952
+P 12000 2400
+F 0 "C36" H 12060 2415 59  0000 L BNN
+F 1 "100n" H 12060 2215 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 12000 2400 50  0001 C CNN
+F 3 "" H 12000 2400 50  0001 C CNN
+	1    12000 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND027
+U 1 0 2524E78419D9C11
+P 10200 2900
+F 0 "#GND027" H 10200 2900 50  0001 C CNN
+F 1 "GND" H 10100 2800 59  0000 L BNN
+F 2 "" H 10200 2900 50  0001 C CNN
+F 3 "" H 10200 2900 50  0001 C CNN
+	1    10200 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND028
+U 1 0 1446A4090345B4CC
+P 11700 2900
+F 0 "#GND028" H 11700 2900 50  0001 C CNN
+F 1 "GND" H 11600 2800 59  0000 L BNN
+F 2 "" H 11700 2900 50  0001 C CNN
+F 3 "" H 11700 2900 50  0001 C CNN
+	1    11700 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND029
+U 1 0 450F114DBFC01DE5
+P 12000 2900
+F 0 "#GND029" H 12000 2900 50  0001 C CNN
+F 1 "GND" H 11900 2800 59  0000 L BNN
+F 2 "" H 12000 2900 50  0001 C CNN
+F 3 "" H 12000 2900 50  0001 C CNN
+	1    12000 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND030
+U 1 0 F5B6CEC3E66C1352
+P 11200 2900
+F 0 "#GND030" H 11200 2900 50  0001 C CNN
+F 1 "GND" H 11100 2800 59  0000 L BNN
+F 2 "" H 11200 2900 50  0001 C CNN
+F 3 "" H 11200 2900 50  0001 C CNN
+	1    11200 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:1N5819HW D5
+U 1 0 F59E3EE3A7EB1F2
+P 7000 2600
+F 0 "D5" H 6884 2704 59  0000 L BNN
+F 1 "RB060MM-60TFTR" H 6824 2423 59  0000 L BNN
+F 2 "motor drive 9y_protection:SOD123" H 7000 2600 50  0001 C CNN
+F 3 "" H 7000 2600 50  0001 C CNN
+	1    7000 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND031
+U 1 0 E8929C46E3033BC1
+P 7000 2900
+F 0 "#GND031" H 7000 2900 50  0001 C CNN
+F 1 "GND" H 6900 2800 59  0000 L BNN
+F 2 "" H 7000 2900 50  0001 C CNN
+F 3 "" H 7000 2900 50  0001 C CNN
+	1    7000 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND032
+U 1 0 288E76A9BDD76BF8
+P 11000 4800
+F 0 "#GND032" H 11000 4800 50  0001 C CNN
+F 1 "GND" H 10900 4700 59  0000 L BNN
+F 2 "" H 11000 4800 50  0001 C CNN
+F 3 "" H 11000 4800 50  0001 C CNN
+	1    11000 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:SI4456DY Q1
+U 1 0 4FCDC6127A211019
+P 16500 5100
+F 0 "Q1" H 15950 5200 59  0000 L BNN
+F 1 "SI4456DY" H 15950 5100 59  0000 L BNN
+F 2 "motor drive 9y_protection:SO8" H 16500 5100 50  0001 C CNN
+F 3 "" H 16500 5100 50  0001 C CNN
+	1    16500 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:SI4456DY Q2
+U 1 0 2C692F70DA191B3C
+P 16500 5700
+F 0 "Q2" H 15950 5800 59  0000 L BNN
+F 1 "SI4456DY" H 15950 5700 59  0000 L BNN
+F 2 "motor drive 9y_protection:SO8" H 16500 5700 50  0001 C CNN
+F 3 "" H 16500 5700 50  0001 C CNN
+	1    16500 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:SI4456DY Q3
+U 1 0 AA6C725EA3E817C2
+P 16500 6500
+F 0 "Q3" H 15950 6600 59  0000 L BNN
+F 1 "SI4456DY" H 15950 6500 59  0000 L BNN
+F 2 "motor drive 9y_protection:SO8" H 16500 6500 50  0001 C CNN
+F 3 "" H 16500 6500 50  0001 C CNN
+	1    16500 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:SI4456DY Q4
+U 1 0 22274378323115D8
+P 16500 7100
+F 0 "Q4" H 15950 7200 59  0000 L BNN
+F 1 "SI4456DY" H 15950 7100 59  0000 L BNN
+F 2 "motor drive 9y_protection:SO8" H 16500 7100 50  0001 C CNN
+F 3 "" H 16500 7100 50  0001 C CNN
+	1    16500 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:SI4456DY Q5
+U 1 0 795F086F2EFB3759
+P 16500 8000
+F 0 "Q5" H 15950 8100 59  0000 L BNN
+F 1 "SI4456DY" H 15950 8000 59  0000 L BNN
+F 2 "motor drive 9y_protection:SO8" H 16500 8000 50  0001 C CNN
+F 3 "" H 16500 8000 50  0001 C CNN
+	1    16500 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:SI4456DY Q6
+U 1 0 4BE77F71A7ECA7AB
+P 16500 8600
+F 0 "Q6" H 15950 8700 59  0000 L BNN
+F 1 "SI4456DY" H 15950 8600 59  0000 L BNN
+F 2 "motor drive 9y_protection:SO8" H 16500 8600 50  0001 C CNN
+F 3 "" H 16500 8600 50  0001 C CNN
+	1    16500 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:VDD #VDD01
+U 1 0 FA2FABFB5CBCE33
+P 12900 2100
+F 0 "#VDD01" H 12900 2100 50  0001 C CNN
+F 1 "VDD" V 12800 2000 59  0000 L BNN
+F 2 "" H 12900 2100 50  0001 C CNN
+F 3 "" H 12900 2100 50  0001 C CNN
+	1    12900 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:+5V #P+07
+U 1 0 21A83AE6BC2DCEA9
+P 14000 9800
+F 0 "#P+07" H 14000 9800 50  0001 C CNN
+F 1 "+5V" V 13900 9600 59  0000 L BNN
+F 2 "" H 14000 9800 50  0001 C CNN
+F 3 "" H 14000 9800 50  0001 C CNN
+	1    14000 9800
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:V+ #P+08
+U 1 0 4B9514A1B54CCCBB
+P 6600 900
+F 0 "#P+08" H 6600 900 50  0001 C CNN
+F 1 "V+" V 6500 800 59  0000 L BNN
+F 2 "" H 6600 900 50  0001 C CNN
+F 3 "" H 6600 900 50  0001 C CNN
+	1    6600 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:VDD #VDD03
+U 1 0 2B2531E68E2EEF55
+P 21400 3500
+F 0 "#VDD03" H 21400 3500 50  0001 C CNN
+F 1 "VDD" V 21300 3400 59  0000 L BNN
+F 2 "" H 21400 3500 50  0001 C CNN
+F 3 "" H 21400 3500 50  0001 C CNN
+	1    21400 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R28
+U 1 0 D83A8125107DD092
+P 9700 6500
+F 0 "R28" H 9550 6559 59  0000 L BNN
+F 1 "47k" H 9550 6370 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 9700 6500 50  0001 C CNN
+F 3 "" H 9700 6500 50  0001 C CNN
+	1    9700 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:VDD #VDD04
+U 1 0 C3E19BE76F5F7475
+P 9700 6100
+F 0 "#VDD04" H 9700 6100 50  0001 C CNN
+F 1 "VDD" V 9600 6000 59  0000 L BNN
+F 2 "" H 9700 6100 50  0001 C CNN
+F 3 "" H 9700 6100 50  0001 C CNN
+	1    9700 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:?M06B-SRSS-TBB X1
+U 1 0 97C2823C753049C4
+P 21700 1800
+F 0 "X1" H 21800 1770 51  0000 L BNN
+F 1 "?M06B-SRSS-TBB" H 21670 1855 51  0001 L BNN
+F 2 "motor drive 9y_protection:BM06B-SRSS-TB" H 21700 1800 50  0001 C CNN
+F 3 "" H 21700 1800 50  0001 C CNN
+	1    21700 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:?M06B-SRSS-TBB X1
+U 2 0 97C2823C753049C8
+P 21700 1900
+F 0 "X1" H 21800 1870 51  0000 L BNN
+F 1 "?M06B-SRSS-TBB" H 21670 1955 51  0001 L BNN
+F 2 "motor drive 9y_protection:BM06B-SRSS-TB" H 21700 1900 50  0001 C CNN
+F 3 "" H 21700 1900 50  0001 C CNN
+	2    21700 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:?M06B-SRSS-TBB X1
+U 3 0 97C2823C753049CC
+P 21700 2000
+F 0 "X1" H 21800 1970 51  0000 L BNN
+F 1 "?M06B-SRSS-TBB" H 21670 2055 51  0001 L BNN
+F 2 "motor drive 9y_protection:BM06B-SRSS-TB" H 21700 2000 50  0001 C CNN
+F 3 "" H 21700 2000 50  0001 C CNN
+	3    21700 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:?M06B-SRSS-TBB X1
+U 4 0 97C2823C753049D0
+P 21700 2100
+F 0 "X1" H 21800 2070 51  0000 L BNN
+F 1 "?M06B-SRSS-TBB" H 21670 2155 51  0001 L BNN
+F 2 "motor drive 9y_protection:BM06B-SRSS-TB" H 21700 2100 50  0001 C CNN
+F 3 "" H 21700 2100 50  0001 C CNN
+	4    21700 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:?M06B-SRSS-TBB X1
+U 5 0 97C2823C753049D4
+P 21700 2200
+F 0 "X1" H 21800 2170 51  0000 L BNN
+F 1 "?M06B-SRSS-TBB" H 21670 2255 51  0001 L BNN
+F 2 "motor drive 9y_protection:BM06B-SRSS-TB" H 21700 2200 50  0001 C CNN
+F 3 "" H 21700 2200 50  0001 C CNN
+	5    21700 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:?M06B-SRSS-TBB X1
+U 6 0 97C2823C753049D8
+P 21700 2300
+F 0 "X1" H 21800 2270 51  0000 L BNN
+F 1 "?M06B-SRSS-TBB" H 21670 2355 51  0001 L BNN
+F 2 "motor drive 9y_protection:BM06B-SRSS-TB" H 21700 2300 50  0001 C CNN
+F 3 "" H 21700 2300 50  0001 C CNN
+	6    21700 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:VDD #VDD05
+U 1 0 F7B1BE000A08E6FA
+P 8200 4400
+F 0 "#VDD05" H 8200 4400 50  0001 C CNN
+F 1 "VDD" V 8100 4300 59  0000 L BNN
+F 2 "" H 8200 4400 50  0001 C CNN
+F 3 "" H 8200 4400 50  0001 C CNN
+	1    8200 4400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:MAX3280E U2
+U 1 0 23E9B31BC2DEB937
+P 2900 3500
+F 0 "U2" H 2500 3900 59  0000 L BNN
+F 1 "MAX3280E" H 2500 3000 59  0000 L BNN
+F 2 "motor drive 9y_protection:SOT23-5L" H 2900 3500 50  0001 C CNN
+F 3 "" H 2900 3500 50  0001 C CNN
+	1    2900 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:MAX3280E U3
+U 1 0 2BCD79B19A04CEE8
+P 2900 4900
+F 0 "U3" H 2500 5300 59  0000 L BNN
+F 1 "MAX3280E" H 2500 4400 59  0000 L BNN
+F 2 "motor drive 9y_protection:SOT23-5L" H 2900 4900 50  0001 C CNN
+F 3 "" H 2900 4900 50  0001 C CNN
+	1    2900 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND08
+U 1 0 167E2C6ADF24F9E8
+P 3000 4100
+F 0 "#GND08" H 3000 4100 50  0001 C CNN
+F 1 "GND" H 2900 4000 59  0000 L BNN
+F 2 "" H 3000 4100 50  0001 C CNN
+F 3 "" H 3000 4100 50  0001 C CNN
+	1    3000 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND09
+U 1 0 92D8EA4928DF91D
+P 3000 5500
+F 0 "#GND09" H 3000 5500 50  0001 C CNN
+F 1 "GND" H 2900 5400 59  0000 L BNN
+F 2 "" H 3000 5500 50  0001 C CNN
+F 3 "" H 3000 5500 50  0001 C CNN
+	1    3000 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:VDD #VDD06
+U 1 0 90CE2709EDC5E3C8
+P 3000 2900
+F 0 "#VDD06" H 3000 2900 50  0001 C CNN
+F 1 "VDD" V 2900 2800 59  0000 L BNN
+F 2 "" H 3000 2900 50  0001 C CNN
+F 3 "" H 3000 2900 50  0001 C CNN
+	1    3000 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:VDD #VDD07
+U 1 0 BCBD4A4384B6F25C
+P 3000 4300
+F 0 "#VDD07" H 3000 4300 50  0001 C CNN
+F 1 "VDD" V 2900 4200 59  0000 L BNN
+F 2 "" H 3000 4300 50  0001 C CNN
+F 3 "" H 3000 4300 50  0001 C CNN
+	1    3000 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:TC2030-MCP-NL J3
+U 1 0 8623551DE912DDF3
+P 4000 9900
+F 0 "J3" H 4000 9900 50  0001 C CNN
+F 1 "TAG Connect" H 4000 9900 50  0001 C CNN
+F 2 "motor drive 9y_protection:TC2030-MCP-NL" H 4000 9900 50  0001 C CNN
+F 3 "" H 4000 9900 50  0001 C CNN
+	1    4000 9900
+	0    1    1    0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:SG-310 U$6
+U 1 0 DFAA916C371C5F19
+P 3100 6500
+F 0 "U$6" H 3100 6500 50  0001 C CNN
+F 1 "SG-310" H 3100 6500 50  0001 C CNN
+F 2 "motor drive 9y_protection:SG-310" H 3100 6500 50  0001 C CNN
+F 3 "" H 3100 6500 50  0001 C CNN
+	1    3100 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:0603_FERRITE L4
+U 1 0 B6A816D7AC177953
+P 21400 4300
+F 0 "L4" V 21341 4150 59  0000 L BNN
+F 1 "0603_FERRITE" V 21530 4150 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0603" H 21400 4300 50  0001 C CNN
+F 3 "" H 21400 4300 50  0001 C CNN
+	1    21400 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:0603_FERRITE L6
+U 1 0 AACA06CA38F5093B
+P 20500 4300
+F 0 "L6" V 20441 4150 59  0000 L BNN
+F 1 "0603_FERRITE" V 20630 4150 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0603" H 20500 4300 50  0001 C CNN
+F 3 "" H 20500 4300 50  0001 C CNN
+	1    20500 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:0603_FERRITE L7
+U 1 0 4B263159B13D2460
+P 6500 5100
+F 0 "L7" V 6441 4950 59  0000 L BNN
+F 1 "0603_FERRITE" V 6630 4950 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0603" H 6500 5100 50  0001 C CNN
+F 3 "" H 6500 5100 50  0001 C CNN
+	1    6500 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:MIC5219BM5 DC3
+U 1 0 6EFC2C3E6328D259
+P 11100 2300
+F 0 "DC3" H 10800 2650 59  0000 L BNN
+F 1 "SP6205EM5" H 10600 1900 59  0000 L BNN
+F 2 "motor drive 9y_protection:SOT23-5" H 11100 2300 50  0001 C CNN
+F 3 "" H 11100 2300 50  0001 C CNN
+	1    11100 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R31
+U 1 0 EF3AC3F7CB649ADB
+P 12400 2300
+F 0 "R31" H 12250 2359 59  0000 L BNN
+F 1 "270R" H 12250 2170 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 12400 2300 50  0001 C CNN
+F 3 "" H 12400 2300 50  0001 C CNN
+	1    12400 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R55
+U 1 0 3B2F721C1825075D
+P 8500 2300
+F 0 "R55" H 8350 2359 59  0000 L BNN
+F 1 "270R" H 8350 2170 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 8500 2300 50  0001 C CNN
+F 3 "" H 8500 2300 50  0001 C CNN
+	1    8500 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:LEDCHIPLED_0603 5VOK1
+U 1 0 AE1EC5A99D32203
+P 8500 2600
+F 0 "5VOK1" V 8640 2420 59  0000 L BNN
+F 1 "Green" V 8725 2420 59  0000 L BNN
+F 2 "motor drive 9y_protection:CHIPLED_0603" H 8500 2600 50  0001 C CNN
+F 3 "" H 8500 2600 50  0001 C CNN
+	1    8500 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:LEDCHIPLED_0603 3V3OK1
+U 1 0 D9385DA86037DF10
+P 12400 2600
+F 0 "3V3OK1" V 12540 2420 59  0000 L BNN
+F 1 "Green" V 12625 2420 59  0000 L BNN
+F 2 "motor drive 9y_protection:CHIPLED_0603" H 12400 2600 50  0001 C CNN
+F 3 "" H 12400 2600 50  0001 C CNN
+	1    12400 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND010
+U 1 0 F47101845C69E3
+P 8500 2900
+F 0 "#GND010" H 8500 2900 50  0001 C CNN
+F 1 "GND" H 8400 2800 59  0000 L BNN
+F 2 "" H 8500 2900 50  0001 C CNN
+F 3 "" H 8500 2900 50  0001 C CNN
+	1    8500 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND022
+U 1 0 5219B01CFB1CD9CF
+P 12400 2900
+F 0 "#GND022" H 12400 2900 50  0001 C CNN
+F 1 "GND" H 12300 2800 59  0000 L BNN
+F 2 "" H 12400 2900 50  0001 C CNN
+F 3 "" H 12400 2900 50  0001 C CNN
+	1    12400 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:TL3700 SW1
+U 1 0 9A392703E9E31E47
+P 5200 3900
+F 0 "SW1" H 5000 4100 59  0000 L BNN
+F 1 "TL3700" H 5400 3600 59  0000 R TNN
+F 2 "motor drive 9y_protection:TL3700" H 5200 3900 50  0001 C CNN
+F 3 "" H 5200 3900 50  0001 C CNN
+	1    5200 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND033
+U 1 0 36A86C7D8D923520
+P 5600 4300
+F 0 "#GND033" H 5600 4300 50  0001 C CNN
+F 1 "GND" H 5500 4200 59  0000 L BNN
+F 2 "" H 5600 4300 50  0001 C CNN
+F 3 "" H 5600 4300 50  0001 C CNN
+	1    5600 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C1
+U 1 0 5902D293218CB388
+P 1000 1100
+F 0 "C1" H 1060 1115 59  0000 L BNN
+F 1 "100n" H 1060 915 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 1000 1100 50  0001 C CNN
+F 3 "" H 1000 1100 50  0001 C CNN
+	1    1000 1100
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C6
+U 1 0 9F272910FE64C8E2
+P 1300 1100
+F 0 "C6" H 1360 1115 59  0000 L BNN
+F 1 "100n" H 1360 915 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 1300 1100 50  0001 C CNN
+F 3 "" H 1300 1100 50  0001 C CNN
+	1    1300 1100
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C7
+U 1 0 D5865185B9E0DE35
+P 1600 1100
+F 0 "C7" H 1660 1115 59  0000 L BNN
+F 1 "100n" H 1660 915 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 1600 1100 50  0001 C CNN
+F 3 "" H 1600 1100 50  0001 C CNN
+	1    1600 1100
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C8
+U 1 0 61919A92621C301E
+P 1900 1100
+F 0 "C8" H 1960 1115 59  0000 L BNN
+F 1 "100n" H 1960 915 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 1900 1100 50  0001 C CNN
+F 3 "" H 1900 1100 50  0001 C CNN
+	1    1900 1100
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C17
+U 1 0 EE4A4631383227E3
+P 2200 1100
+F 0 "C17" H 2260 1115 59  0000 L BNN
+F 1 "100n" H 2260 915 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 2200 1100 50  0001 C CNN
+F 3 "" H 2200 1100 50  0001 C CNN
+	1    2200 1100
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND034
+U 1 0 F799C9840FD0C583
+P 1600 1300
+F 0 "#GND034" H 1600 1300 50  0001 C CNN
+F 1 "GND" H 1500 1200 59  0000 L BNN
+F 2 "" H 1600 1300 50  0001 C CNN
+F 3 "" H 1600 1300 50  0001 C CNN
+	1    1600 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:VDD #VDD08
+U 1 0 4073A7B4ACFEA930
+P 1600 800
+F 0 "#VDD08" H 1600 800 50  0001 C CNN
+F 1 "VDD" V 1500 700 59  0000 L BNN
+F 2 "" H 1600 800 50  0001 C CNN
+F 3 "" H 1600 800 50  0001 C CNN
+	1    1600 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:VDD #VDD09
+U 1 0 57CF74DB7532A445
+P 20500 3500
+F 0 "#VDD09" H 20500 3500 50  0001 C CNN
+F 1 "VDD" V 20400 3400 59  0000 L BNN
+F 2 "" H 20500 3500 50  0001 C CNN
+F 3 "" H 20500 3500 50  0001 C CNN
+	1    20500 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C31
+U 1 0 F3A27BCFC1C414A2
+P 6900 5800
+F 0 "C31" H 6960 5815 59  0000 L BNN
+F 1 "100n" H 6960 5615 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 6900 5800 50  0001 C CNN
+F 3 "" H 6900 5800 50  0001 C CNN
+	1    6900 5800
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND035
+U 1 0 F5CD92A1CF03C53C
+P 6900 6000
+F 0 "#GND035" H 6900 6000 50  0001 C CNN
+F 1 "GND" H 6800 5900 59  0000 L BNN
+F 2 "" H 6900 6000 50  0001 C CNN
+F 3 "" H 6900 6000 50  0001 C CNN
+	1    6900 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:?M05B-SRSS-TBB X4
+U 1 0 E40D0C8A16444AAD
+P 8900 8100
+F 0 "X4" H 9000 8070 51  0000 L BNN
+F 1 "?M05B-SRSS-TBB" H 8870 8155 51  0001 L BNN
+F 2 "motor drive 9y_protection:BM05B-SRSS-TB" H 8900 8100 50  0001 C CNN
+F 3 "" H 8900 8100 50  0001 C CNN
+	1    8900 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:?M05B-SRSS-TBB X4
+U 2 0 E40D0C8A16444AA1
+P 8900 8300
+F 0 "X4" H 9000 8270 51  0000 L BNN
+F 1 "?M05B-SRSS-TBB" H 8870 8355 51  0001 L BNN
+F 2 "motor drive 9y_protection:BM05B-SRSS-TB" H 8900 8300 50  0001 C CNN
+F 3 "" H 8900 8300 50  0001 C CNN
+	2    8900 8300
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:?M05B-SRSS-TBB X4
+U 3 0 E40D0C8A16444AA5
+P 8900 8500
+F 0 "X4" H 9000 8470 51  0000 L BNN
+F 1 "?M05B-SRSS-TBB" H 8870 8555 51  0001 L BNN
+F 2 "motor drive 9y_protection:BM05B-SRSS-TB" H 8900 8500 50  0001 C CNN
+F 3 "" H 8900 8500 50  0001 C CNN
+	3    8900 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:?M05B-SRSS-TBB X4
+U 4 0 E40D0C8A16444AB9
+P 8900 8700
+F 0 "X4" H 9000 8670 51  0000 L BNN
+F 1 "?M05B-SRSS-TBB" H 8870 8755 51  0001 L BNN
+F 2 "motor drive 9y_protection:BM05B-SRSS-TB" H 8900 8700 50  0001 C CNN
+F 3 "" H 8900 8700 50  0001 C CNN
+	4    8900 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:?M05B-SRSS-TBB X4
+U 5 0 E40D0C8A16444ABD
+P 8900 8900
+F 0 "X4" H 9000 8870 51  0000 L BNN
+F 1 "?M05B-SRSS-TBB" H 8870 8955 51  0001 L BNN
+F 2 "motor drive 9y_protection:BM05B-SRSS-TB" H 8900 8900 50  0001 C CNN
+F 3 "" H 8900 8900 50  0001 C CNN
+	5    8900 8900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:MKS1650-8 X5
+U 1 0 BAA9DDD6E45AA7F8
+P 21300 8500
+F 0 "X5" H 21600 9300 42  0000 L BNN
+F 1 "MKS1650-8" H 21600 7500 42  0000 L BNN
+F 2 "motor drive 9y_protection:MKS1650" H 21300 8500 50  0001 C CNN
+F 3 "" H 21300 8500 50  0001 C CNN
+	1    21300 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:?M03B-SRSS-TBB X2
+U 1 0 CD2217CDDDF2E3E2
+P 11100 4200
+F 0 "X2" H 11200 4170 51  0000 L BNN
+F 1 "?M03B-SRSS-TBB" H 11070 4255 51  0001 L BNN
+F 2 "motor drive 9y_protection:BM03B-SRSS-TB" H 11100 4200 50  0001 C CNN
+F 3 "" H 11100 4200 50  0001 C CNN
+	1    11100 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:?M03B-SRSS-TBB X2
+U 2 0 CD2217CDDDF2E3EE
+P 11100 4400
+F 0 "X2" H 11200 4370 51  0000 L BNN
+F 1 "?M03B-SRSS-TBB" H 11070 4455 51  0001 L BNN
+F 2 "motor drive 9y_protection:BM03B-SRSS-TB" H 11100 4400 50  0001 C CNN
+F 3 "" H 11100 4400 50  0001 C CNN
+	2    11100 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:?M03B-SRSS-TBB X2
+U 3 0 CD2217CDDDF2E3EA
+P 11100 4600
+F 0 "X2" H 11200 4570 51  0000 L BNN
+F 1 "?M03B-SRSS-TBB" H 11070 4655 51  0001 L BNN
+F 2 "motor drive 9y_protection:BM03B-SRSS-TB" H 11100 4600 50  0001 C CNN
+F 3 "" H 11100 4600 50  0001 C CNN
+	3    11100 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:VDD #VDD010
+U 1 0 BBE3909B9DF4719A
+P 2300 6100
+F 0 "#VDD010" H 2300 6100 50  0001 C CNN
+F 1 "VDD" V 2200 6000 59  0000 L BNN
+F 2 "" H 2300 6100 50  0001 C CNN
+F 3 "" H 2300 6100 50  0001 C CNN
+	1    2300 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R18
+U 1 0 5ABE35085FB2C040
+P 4300 7800
+F 0 "R18" H 4150 7859 59  0000 L BNN
+F 1 "470R" H 4150 7670 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 4300 7800 50  0001 C CNN
+F 3 "" H 4300 7800 50  0001 C CNN
+	1    4300 7800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:FT231XQ U4
+U 1 0 A282E7207C57E89D
+P 17500 2000
+F 0 "U4" H 16900 2800 42  0000 L BNN
+F 1 "FT231XQ" H 17800 2800 42  0000 L BNN
+F 2 "motor drive 9y_protection:QFN20" H 17500 2000 50  0001 C CNN
+F 3 "" H 17500 2000 50  0001 C CNN
+	1    17500 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:AD8207 U5
+U 1 0 E247FBFAFECC9F54
+P 20400 5600
+F 0 "U5" H 20600 5200 59  0000 L BNN
+F 1 "AD8207" H 20100 5200 59  0000 L BNN
+F 2 "motor drive 9y_protection:SO8" H 20400 5600 50  0001 C CNN
+F 3 "" H 20400 5600 50  0001 C CNN
+	1    20400 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:AD8207 U6
+U 1 0 A668AB60E64FE535
+P 20400 7000
+F 0 "U6" H 20600 6600 59  0000 L BNN
+F 1 "AD8207" H 20100 6600 59  0000 L BNN
+F 2 "motor drive 9y_protection:SO8" H 20400 7000 50  0001 C CNN
+F 3 "" H 20400 7000 50  0001 C CNN
+	1    20400 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:VDD #VDD012
+U 1 0 7360F789A361066D
+P 17400 800
+F 0 "#VDD012" H 17400 800 50  0001 C CNN
+F 1 "VDD" V 17300 700 59  0000 L BNN
+F 2 "" H 17400 800 50  0001 C CNN
+F 3 "" H 17400 800 50  0001 C CNN
+	1    17400 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND036
+U 1 0 61F5680C397F6EFB
+P 17500 3300
+F 0 "#GND036" H 17500 3300 50  0001 C CNN
+F 1 "GND" H 17400 3200 59  0000 L BNN
+F 2 "" H 17500 3300 50  0001 C CNN
+F 3 "" H 17500 3300 50  0001 C CNN
+	1    17500 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:VDD #VDD013
+U 1 0 E54733D93B964635
+P 19600 2000
+F 0 "#VDD013" H 19600 2000 50  0001 C CNN
+F 1 "VDD" V 19500 1900 59  0000 L BNN
+F 2 "" H 19600 2000 50  0001 C CNN
+F 3 "" H 19600 2000 50  0001 C CNN
+	1    19600 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND037
+U 1 0 A111264C7CFE796D
+P 18700 3500
+F 0 "#GND037" H 18700 3500 50  0001 C CNN
+F 1 "GND" H 18600 3400 59  0000 L BNN
+F 2 "" H 18700 3500 50  0001 C CNN
+F 3 "" H 18700 3500 50  0001 C CNN
+	1    18700 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND038
+U 1 0 C6FB8FD59C9B1271
+P 15600 2700
+F 0 "#GND038" H 15600 2700 50  0001 C CNN
+F 1 "GND" H 15500 2600 59  0000 L BNN
+F 2 "" H 15600 2700 50  0001 C CNN
+F 3 "" H 15600 2700 50  0001 C CNN
+	1    15600 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND039
+U 1 0 9E9561F0D092AC48
+P 15200 1700
+F 0 "#GND039" H 15200 1700 50  0001 C CNN
+F 1 "GND" H 15100 1600 59  0000 L BNN
+F 2 "" H 15200 1700 50  0001 C CNN
+F 3 "" H 15200 1700 50  0001 C CNN
+	1    15200 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R26
+U 1 0 E402D6A22AE43DDA
+P 18800 2200
+F 0 "R26" H 18650 2259 59  0000 L BNN
+F 1 "270R" H 18650 2070 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 18800 2200 50  0001 C CNN
+F 3 "" H 18800 2200 50  0001 C CNN
+	1    18800 2200
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R20
+U 1 0 62A413D9C6E47864
+P 18800 2500
+F 0 "R20" H 18650 2559 59  0000 L BNN
+F 1 "270R" H 18650 2370 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 18800 2500 50  0001 C CNN
+F 3 "" H 18800 2500 50  0001 C CNN
+	1    18800 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:LEDCHIPLED_0603 LED4
+U 1 0 DABE31ECBD2B1963
+P 19300 2200
+F 0 "LED4" V 19440 2020 59  0000 L BNN
+F 1 "Red" V 19525 2020 59  0000 L BNN
+F 2 "motor drive 9y_protection:CHIPLED_0603" H 19300 2200 50  0001 C CNN
+F 3 "" H 19300 2200 50  0001 C CNN
+	1    19300 2200
+	0    1    1    0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:LEDCHIPLED_0603 LED5
+U 1 0 82355A1F5022159A
+P 19300 2500
+F 0 "LED5" V 19440 2320 59  0000 L BNN
+F 1 "Green" V 19525 2320 59  0000 L BNN
+F 2 "motor drive 9y_protection:CHIPLED_0603" H 19300 2500 50  0001 C CNN
+F 3 "" H 19300 2500 50  0001 C CNN
+	1    19300 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R21
+U 1 0 A3F6BE598D576614
+P 19000 2900
+F 0 "R21" H 18850 2959 59  0000 L BNN
+F 1 "4k7" H 18850 2770 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 19000 2900 50  0001 C CNN
+F 3 "" H 19000 2900 50  0001 C CNN
+	1    19000 2900
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R22
+U 1 0 7264849B4920326A
+P 18700 3100
+F 0 "R22" H 18550 3159 59  0000 L BNN
+F 1 "10k" H 18550 2970 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 18700 3100 50  0001 C CNN
+F 3 "" H 18700 3100 50  0001 C CNN
+	1    18700 3100
+	0    1    1    0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R23
+U 1 0 22E12C1037530D1B
+P 16200 1800
+F 0 "R23" H 16050 1859 59  0000 L BNN
+F 1 "27R" H 16050 1670 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 16200 1800 50  0001 C CNN
+F 3 "" H 16200 1800 50  0001 C CNN
+	1    16200 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R29
+U 1 0 2DD3957EB1F7E08E
+P 16200 2000
+F 0 "R29" H 16050 2059 59  0000 L BNN
+F 1 "27R" H 16050 1870 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 16200 2000 50  0001 C CNN
+F 3 "" H 16200 2000 50  0001 C CNN
+	1    16200 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C22
+U 1 0 67B6E64ED9626D34
+P 15600 2200
+F 0 "C22" H 15660 2215 59  0000 L BNN
+F 1 "47pf" H 15660 2015 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 15600 2200 50  0001 C CNN
+F 3 "" H 15600 2200 50  0001 C CNN
+	1    15600 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C23
+U 1 0 76D9CCDCD957736
+P 15900 2200
+F 0 "C23" H 15960 2215 59  0000 L BNN
+F 1 "47pf" H 15960 2015 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 15900 2200 50  0001 C CNN
+F 3 "" H 15900 2200 50  0001 C CNN
+	1    15900 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:47346-0001 J1
+U 1 0 FBFD068E2F86AB19
+P 14100 1800
+F 0 "J1" H 13900 2300 68  0000 L BNN
+F 1 "USB" H 13900 1200 69  0000 L BNN
+F 2 "motor drive 9y_protection:MOLEX_47346-0001" H 14100 1800 50  0001 C CNN
+F 3 "" H 14100 1800 50  0001 C CNN
+	1    14100 1800
+	-1   0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:SMD_SWITCH_127_2 SW2
+U 1 0 8779F4E749939659
+P 3300 8700
+F 0 "SW2" V 3200 8500 59  0000 L BNN
+F 1 "SMD_SWITCH_127_2" V 3575 8500 59  0000 L BNN
+F 2 "motor drive 9y_protection:SMD_SWITCH_127_2" H 3300 8700 50  0001 C CNN
+F 3 "" H 3300 8700 50  0001 C CNN
+	1    3300 8700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C25
+U 1 0 92A904AE1DB35DCC
+P 16400 1200
+F 0 "C25" H 16460 1215 59  0000 L BNN
+F 1 "100n" H 16460 1015 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 16400 1200 50  0001 C CNN
+F 3 "" H 16400 1200 50  0001 C CNN
+	1    16400 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND040
+U 1 0 92C1CE6CE4BD4CA6
+P 16400 1600
+F 0 "#GND040" H 16400 1600 50  0001 C CNN
+F 1 "GND" H 16300 1500 59  0000 L BNN
+F 2 "" H 16400 1600 50  0001 C CNN
+F 3 "" H 16400 1600 50  0001 C CNN
+	1    16400 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C24
+U 1 0 E802B4BEC533F2EC
+P 16200 1200
+F 0 "C24" H 16260 1215 59  0000 L BNN
+F 1 "100n" H 16260 1015 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 16200 1200 50  0001 C CNN
+F 3 "" H 16200 1200 50  0001 C CNN
+	1    16200 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:A4931 U1
+U 1 0 B89026D3F9562130
+P 13000 7000
+F 0 "U1" H 13000 7000 50  0001 C CNN
+F 1 "A4931" H 13000 7000 50  0001 C CNN
+F 2 "motor drive 9y_protection:QFN-28-NEW" H 13000 7000 50  0001 C CNN
+F 3 "" H 13000 7000 50  0001 C CNN
+	1    13000 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC1210 C51
+U 1 0 FAB0B10CC7CDCE91
+P 7200 1100
+F 0 "C51" H 7260 1115 59  0000 L BNN
+F 1 "10uF" H 7260 915 59  0000 L BNN
+F 2 "motor drive 9y_protection:C1210" H 7200 1100 50  0001 C CNN
+F 3 "" H 7200 1100 50  0001 C CNN
+	1    7200 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC1210 C52
+U 1 0 7CCED418FDB602E2
+P 7500 1100
+F 0 "C52" H 7560 1115 59  0000 L BNN
+F 1 "10uF" H 7560 915 59  0000 L BNN
+F 2 "motor drive 9y_protection:C1210" H 7500 1100 50  0001 C CNN
+F 3 "" H 7500 1100 50  0001 C CNN
+	1    7500 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC1210 C53
+U 1 0 49DB05242CF8064E
+P 7800 1100
+F 0 "C53" H 7860 1115 59  0000 L BNN
+F 1 "10uF" H 7860 915 59  0000 L BNN
+F 2 "motor drive 9y_protection:C1210" H 7800 1100 50  0001 C CNN
+F 3 "" H 7800 1100 50  0001 C CNN
+	1    7800 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC1210 C54
+U 1 0 372428A285D42A71
+P 8100 1100
+F 0 "C54" H 8160 1115 59  0000 L BNN
+F 1 "10uF" H 8160 915 59  0000 L BNN
+F 2 "motor drive 9y_protection:C1210" H 8100 1100 50  0001 C CNN
+F 3 "" H 8100 1100 50  0001 C CNN
+	1    8100 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC1210 C59
+U 1 0 28328399F27E7484
+P 7800 2500
+F 0 "C59" H 7860 2515 59  0000 L BNN
+F 1 "22uF" H 7860 2315 59  0000 L BNN
+F 2 "motor drive 9y_protection:C1210" H 7800 2500 50  0001 C CNN
+F 3 "" H 7800 2500 50  0001 C CNN
+	1    7800 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC1210 C58
+U 1 0 B553399B5FCE5FC
+P 8100 2400
+F 0 "C58" H 8160 2415 59  0000 L BNN
+F 1 "22uF" H 8160 2215 59  0000 L BNN
+F 2 "motor drive 9y_protection:C1210" H 8100 2400 50  0001 C CNN
+F 3 "" H 8100 2400 50  0001 C CNN
+	1    8100 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC1210 C34
+U 1 0 1FEBDBCD81454EA8
+P 10200 2400
+F 0 "C34" H 10260 2415 59  0000 L BNN
+F 1 "2.2uF" H 10260 2215 59  0000 L BNN
+F 2 "motor drive 9y_protection:C1210" H 10200 2400 50  0001 C CNN
+F 3 "" H 10200 2400 50  0001 C CNN
+	1    10200 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC1210 C35
+U 1 0 44FCD8361F6AD510
+P 11700 2400
+F 0 "C35" H 11760 2415 59  0000 L BNN
+F 1 "2.2uF" H 11760 2215 59  0000 L BNN
+F 2 "motor drive 9y_protection:C1210" H 11700 2400 50  0001 C CNN
+F 3 "" H 11700 2400 50  0001 C CNN
+	1    11700 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:DIODE_2CACA-SOT23 D3
+U 1 0 40D44ED439967F7A
+P 18200 8300
+F 0 "D3" H 18230 8379 59  0000 L BNN
+F 1 "DIODE_2CACA-SOT23" H 18010 8164 59  0000 L BNN
+F 2 "motor drive 9y_protection:SOT23" H 18200 8300 50  0001 C CNN
+F 3 "" H 18200 8300 50  0001 C CNN
+	1    18200 8300
+	0    1    1    0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:DIODE_2CACA-SOT23 D2
+U 1 0 4C475A1A20478EC3
+P 18200 6800
+F 0 "D2" H 18230 6879 59  0000 L BNN
+F 1 "DIODE_2CACA-SOT23" H 18010 6664 59  0000 L BNN
+F 2 "motor drive 9y_protection:SOT23" H 18200 6800 50  0001 C CNN
+F 3 "" H 18200 6800 50  0001 C CNN
+	1    18200 6800
+	0    1    1    0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:DIODE_2CACA-SOT23 D1
+U 1 0 BE5F3F048D141E84
+P 18200 5400
+F 0 "D1" H 18230 5479 59  0000 L BNN
+F 1 "DIODE_2CACA-SOT23" H 18010 5264 59  0000 L BNN
+F 2 "motor drive 9y_protection:SOT23" H 18200 5400 50  0001 C CNN
+F 3 "" H 18200 5400 50  0001 C CNN
+	1    18200 5400
+	0    1    1    0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND041
+U 1 0 28329D2FD9BFE6C2
+P 18200 5700
+F 0 "#GND041" H 18200 5700 50  0001 C CNN
+F 1 "GND" H 18100 5600 59  0000 L BNN
+F 2 "" H 18200 5700 50  0001 C CNN
+F 3 "" H 18200 5700 50  0001 C CNN
+	1    18200 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND042
+U 1 0 8E7023AAC4E41BBE
+P 18200 7100
+F 0 "#GND042" H 18200 7100 50  0001 C CNN
+F 1 "GND" H 18100 7000 59  0000 L BNN
+F 2 "" H 18200 7100 50  0001 C CNN
+F 3 "" H 18200 7100 50  0001 C CNN
+	1    18200 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND043
+U 1 0 700B8CEBC96F3BDD
+P 18200 8600
+F 0 "#GND043" H 18200 8600 50  0001 C CNN
+F 1 "GND" H 18100 8500 59  0000 L BNN
+F 2 "" H 18200 8600 50  0001 C CNN
+F 3 "" H 18200 8600 50  0001 C CNN
+	1    18200 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:V+ #P+03
+U 1 0 DC184ABA00F05DF6
+P 18200 5100
+F 0 "#P+03" H 18200 5100 50  0001 C CNN
+F 1 "V+" V 18100 5000 59  0000 L BNN
+F 2 "" H 18200 5100 50  0001 C CNN
+F 3 "" H 18200 5100 50  0001 C CNN
+	1    18200 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:V+ #P+04
+U 1 0 9CDE3F88A7FDB2D8
+P 18200 6500
+F 0 "#P+04" H 18200 6500 50  0001 C CNN
+F 1 "V+" V 18100 6400 59  0000 L BNN
+F 2 "" H 18200 6500 50  0001 C CNN
+F 3 "" H 18200 6500 50  0001 C CNN
+	1    18200 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:V+ #P+06
+U 1 0 5DDE0B8BB0F39303
+P 18200 8000
+F 0 "#P+06" H 18200 8000 50  0001 C CNN
+F 1 "V+" V 18100 7900 59  0000 L BNN
+F 2 "" H 18200 8000 50  0001 C CNN
+F 3 "" H 18200 8000 50  0001 C CNN
+	1    18200 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C30
+U 1 0 41196C4369046A48
+P 14200 5100
+F 0 "C30" H 14260 5115 59  0000 L BNN
+F 1 "100n" H 14260 4915 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 14200 5100 50  0001 C CNN
+F 3 "" H 14200 5100 50  0001 C CNN
+	1    14200 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND044
+U 1 0 5F5830AE1165F8F0
+P 14200 5400
+F 0 "#GND044" H 14200 5400 50  0001 C CNN
+F 1 "GND" H 14100 5300 59  0000 L BNN
+F 2 "" H 14200 5400 50  0001 C CNN
+F 3 "" H 14200 5400 50  0001 C CNN
+	1    14200 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:MAX5035 DC5
+U 1 0 7CAE8C459384D2E
+P 5500 1900
+F 0 "DC5" H 5500 2350 59  0000 L BNN
+F 1 "MAX5035" H 5200 1700 59  0000 L BNN
+F 2 "motor drive 9y_protection:SOIC8" H 5500 1900 50  0001 C CNN
+F 3 "" H 5500 1900 50  0001 C CNN
+	1    5500 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R50
+U 1 0 4156D87D272FB58D
+P 4500 2600
+F 0 "R50" H 4350 2659 59  0000 L BNN
+F 1 "1M" H 4350 2470 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 4500 2600 50  0001 C CNN
+F 3 "" H 4500 2600 50  0001 C CNN
+	1    4500 2600
+	0    -1   1    0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:R-EU_R0402 R51
+U 1 0 E919EF9A9FEF76C7
+P 4500 2000
+F 0 "R51" H 4350 2059 59  0000 L BNN
+F 1 "270k" H 4350 1870 59  0000 L BNN
+F 2 "motor drive 9y_protection:R0402" H 4500 2000 50  0001 C CNN
+F 3 "" H 4500 2000 50  0001 C CNN
+	1    4500 2000
+	0    -1   1    0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:GND #GND047
+U 1 0 3E27A29AD3B7AFF0
+P 5700 3300
+F 0 "#GND047" H 5700 3300 50  0001 C CNN
+F 1 "GND" H 5600 3200 59  0000 L BNN
+F 2 "" H 5700 3300 50  0001 C CNN
+F 3 "" H 5700 3300 50  0001 C CNN
+	1    5700 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C56
+U 1 0 F907C4A3E4AA5CFF
+P 6300 3000
+F 0 "C56" H 6360 3015 59  0000 L BNN
+F 1 "100n" H 6360 2815 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 6300 3000 50  0001 C CNN
+F 3 "" H 6300 3000 50  0001 C CNN
+	1    6300 3000
+	1    0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:C-EUC0402K C57
+U 1 0 955F8CF746B94B7C
+P 6300 1900
+F 0 "C57" H 6360 1915 59  0000 L BNN
+F 1 "100n" H 6360 1715 59  0000 L BNN
+F 2 "motor drive 9y_protection:C0402K" H 6300 1900 50  0001 C CNN
+F 3 "" H 6300 1900 50  0001 C CNN
+	1    6300 1900
+	1    0    0    1   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:CPOL-EUD C50
+U 1 0 EBF7BD89F3A27153
+P 6900 1100
+F 0 "C50" H 6945 1119 59  0000 L BNN
+F 1 "10uF" H 6945 919 59  0000 L BNN
+F 2 "motor drive 9y_protection:PANASONIC_D" H 6900 1100 50  0001 C CNN
+F 3 "" H 6900 1100 50  0001 C CNN
+	1    6900 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:TVS-DIODE TVS1
+U 1 0 59EF3A2D1F67359B
+P 8700 1200
+F 0 "TVS1" V 8804 1116 59  0000 R TNN
+F 1 "SMBJ33A" V 8623 1076 59  0000 R TNN
+F 2 "motor drive 9y_protection:DIODE" H 8700 1200 50  0001 C CNN
+F 3 "" H 8700 1200 50  0001 C CNN
+	1    8700 1200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:LPS8045B-104MRB_SPULE L5
+U 1 0 1E28A4CB384361A1
+P 7400 2100
+F 0 "L5" H 7250 2190 59  0000 L BNN
+F 1 "LPS8045B" H 7245 1980 59  0000 L BNN
+F 2 "motor drive 9y_protection:LPS8045B-104MRB_SPULE" H 7400 2100 50  0001 C CNN
+F 3 "" H 7400 2100 50  0001 C CNN
+	1    7400 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:WAGO_SMD VIN1
+U 1 0 63265EE62947D23
+P 3400 1000
+F 0 "VIN1" H 3222 1096 59  0000 L BNN
+F 1 "WAGO_SMD" H 3222 564 59  0000 L BNN
+F 2 "motor drive 9y_protection:WAGO_SMD" H 3400 1000 50  0001 C CNN
+F 3 "" H 3400 1000 50  0001 C CNN
+	1    3400 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L motor_drive_9y_protection-eagle-import:VARISTORCN1206 VAR1
+U 1 0 C2630D401CB14505
+P 9300 1200
+F 0 "VAR1" V 9350 1100 59  0000 R TNN
+F 1 "VC1206K201R025" V 9250 1100 59  0000 R TNN
+F 2 "motor drive 9y_protection:CT_CN1206" H 9300 1200 50  0001 C CNN
+F 3 "" H 9300 1200 50  0001 C CNN
+	1    9300 1200
+	0    -1   -1   0   
+$EndComp
+Text Notes 20900 2500 0    59   ~ 0
+Displacement sensor
+Text Notes 10700 1800 0    59   ~ 0
+3.3v Regulator 500mA
+Text Notes 6100 2800 0    59   ~ 0
+24 - 5v buck converter
+Text Notes 2400 2800 0    59   ~ 0
+Differential receiver
+Text Notes 4500 9800 0    59   ~ 0
+ICD interface
+Text Notes 6000 9500 0    59   ~ 0
+Motor encoder interface
+Text Notes 8200 9100 0    59   ~ 0
+SPI interface
+Text Notes 13000 7400 0    59   ~ 0
+BLDC Motor Driver
+Text Notes 20200 6400 0    59   ~ 0
+Current sensing
+Text Notes 20400 9500 0    59   ~ 0
+Motor connector
+Text Notes 9000 3800 0    59   ~ 0
+3.3v CAN Transceiver
+Text Notes 5100 2400 0    59   ~ 0
+24v IN
+Text Notes 5000 4400 0    59   ~ 0
+RESET
+Text Notes 3100 1300 0    59   ~ 0
+IC Decoupling
+Text Notes 20700 2300 0    59   ~ 0
+1
+Text Notes 20700 2200 0    59   ~ 0
+2
+Text Notes 20700 2100 0    59   ~ 0
+3
+Text Notes 20700 2000 0    59   ~ 0
+4
+Text Notes 20700 1900 0    59   ~ 0
+5
+Text Notes 20700 1800 0    59   ~ 0
+6
+Text Notes 3400 900  0    59   ~ 0
+10V - 30V 
+Wire Wire Line
+	12700 4700 12700 5400
+Wire Wire Line
+	17500 3000 17500 3200
+Wire Wire Line
+	14600 1600 15200 1600
+Wire Wire Line
+	8300 4600 8300 6500
+Wire Wire Line
+	8400 4000 8400 6600
+Connection ~ 3500 1200
+$EndSCHEMATC
